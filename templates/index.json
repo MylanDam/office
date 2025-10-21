@@ -15,9 +15,7 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/PHOTO-2025-09-04-10-35-43.jpg",
-            "image_mobile": "shopify://shop_images/dad-area2.webp",
-            "heading": "The “Dad Bod” Era Is Over.",
+            "heading": "Craft. Create. Inspire.",
             "heading_size": "title-md",
             "heading_tag": "h2",
             "button_label": "",
