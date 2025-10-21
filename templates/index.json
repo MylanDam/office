@@ -105,15 +105,58 @@
         "rounded": false
       }
     },
-    "featured_collection_mwxzgV": {
-      "type": "featured-collection",
-      "name": "t:sections.featured-collection.presets.name",
+    "collection_list_3VQxVT": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_cjtQp3": {
+          "type": "collection",
+          "settings": {
+            "collection": "frontpage",
+            "title": "",
+            "description": "",
+            "overlay_content": false,
+            "color_text": "#ffffff",
+            "color_overlay": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_6BCzCT": {
+          "type": "collection",
+          "settings": {
+            "collection": "paper-pen",
+            "title": "",
+            "description": "",
+            "overlay_content": false,
+            "color_text": "#ffffff",
+            "color_overlay": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_QcPbb8": {
+          "type": "collection",
+          "settings": {
+            "collection": "school-essentials",
+            "title": "",
+            "description": "",
+            "overlay_content": false,
+            "color_text": "#ffffff",
+            "color_overlay": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "collection_cjtQp3",
+        "collection_6BCzCT",
+        "collection_QcPbb8"
+      ],
+      "name": "t:sections.collection-list.presets.name",
       "settings": {
-        "collection": "primepapas-picks",
-        "products": [],
-        "product_limit": 6,
         "columns": 4,
         "carousel_on_desktop": true,
+        "image_type": "collection",
+        "image_ratio": "square",
+        "show_products_count": true,
         "show_view_all": false,
         "columns_mobile": "1",
         "swipe_on_mobile": true,
@@ -133,7 +176,7 @@
         "color_button_text": "",
         "color_button_background": "",
         "color_button_gradient": "",
-        "padding_top": 36,
+        "padding_top": 24,
         "padding_bottom": 24,
         "divider": false,
         "full_width": false,
@@ -254,7 +297,7 @@
   "order": [
     "slideshow",
     "rich-text-1",
-    "featured_collection_mwxzgV",
+    "collection_list_3VQxVT",
     "faq_dXGFcc"
   ]
 }
