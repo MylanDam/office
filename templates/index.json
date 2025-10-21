@@ -15,6 +15,8 @@
         "slide-1": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/pexels-pavel-danilyuk-8001029.jpg",
+            "image_mobile": "shopify://shop_images/Illustration_sans_titre_1.jpg",
             "heading": "Craft. Create. Inspire.",
             "heading_size": "title-md",
             "heading_tag": "h2",
