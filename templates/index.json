@@ -1,0 +1,260 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slide-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/PHOTO-2025-09-04-10-35-43.jpg",
+            "image_mobile": "shopify://shop_images/dad-area2.webp",
+            "heading": "The “Dad Bod” Era Is Over.",
+            "heading_size": "title-md",
+            "heading_tag": "h2",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "primary",
+            "button_external": false,
+            "button_icon": false
+          }
+        }
+      },
+      "block_order": [
+        "slide-1"
+      ],
+      "settings": {
+        "autoplay": false,
+        "autoplay_speed": 7,
+        "show_navigation": true,
+        "image_height": "750px",
+        "content_width": "small",
+        "image_height_mobile": "500px",
+        "color_text": "#ffffff",
+        "color_background": "#ffffff",
+        "gradient_background": "",
+        "color_button_text": "#171717",
+        "color_button_background": "#ffffff",
+        "color_button_gradient": "",
+        "color_overlay": "#000000",
+        "overlay_opacity": 20,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "divider": false,
+        "full_width": true,
+        "rounded": false,
+        "enable_parallax": false,
+        "parallax_direction": "vertical"
+      }
+    },
+    "rich-text-1": {
+      "type": "rich-text",
+      "blocks": {
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>At PrimePapas™, we design products for men 30+ who want to fight back against the <strong>belly</strong>, the <strong>slouch</strong>, and the <strong>fatigue</strong>. </p><p>From compression tanks to posture braces and endurance trainers, every tool is built to help you <strong>look sharper</strong>, <strong>move stronger</strong>, and <strong>feel unstoppable</strong>.</p>",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_font": "body",
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "text"
+      ],
+      "settings": {
+        "text_alignment": "left",
+        "text_alignment_mobile": "left",
+        "heading": "Strength. Posture. Confidence.",
+        "heading_size": "title-md",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_width": "small",
+        "heading_tag": "h2",
+        "subheading": "With gear built for men who refuse to fade.",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_external": false,
+        "button_icon": true,
+        "highlighted_text": "scribble",
+        "highlighted_scribble": "basic-underline",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 60,
+        "padding_bottom": 36,
+        "divider": false,
+        "narrow": false,
+        "rounded": false
+      }
+    },
+    "featured_collection_mwxzgV": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "collection": "primepapas-picks",
+        "products": [],
+        "product_limit": 6,
+        "columns": 4,
+        "carousel_on_desktop": true,
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "heading": "",
+        "heading_size": "title-md",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 36,
+        "padding_bottom": 24,
+        "divider": false,
+        "full_width": false,
+        "rounded": false
+      }
+    },
+    "faq_dXGFcc": {
+      "type": "faq",
+      "blocks": {
+        "question_MEDB3n": {
+          "type": "question",
+          "settings": {
+            "title": "How can I track my order?",
+            "text": "<p>Once your order is shipped, you’ll receive an email with your <strong>tracking number</strong>. You can track your package anytime here 👉 <a href=\"https://primepapas.com/pages/track-your-order?utm_source=chatgpt.com\">Track My Order</a>.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question_W3e7px": {
+          "type": "question",
+          "settings": {
+            "title": "I didn’t receive my order confirmation, what should I do?",
+            "text": "<p>Sometimes the confirmation email ends up in the <strong>spam/junk folder</strong>. Please check there first.<br/><br/>If you still don’t see it, contact us at <a><strong>support@primepapas.com</strong></a> or call us at <strong>+1 (806) 278-2126</strong>, and we’ll resend it to you.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question_rA4MNw": {
+          "type": "question",
+          "settings": {
+            "title": "Can I modify or cancel my order?",
+            "text": "<p>Yes — you can <strong>cancel or change your order as long as it hasn’t been processed</strong> by our warehouse team.<br/><br/>⚠️ Once your order has been shipped, it can no longer be modified or canceled.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question_3kgeJB": {
+          "type": "question",
+          "settings": {
+            "title": "What is your return and refund policy?",
+            "text": "<p>We offer a <strong>30-day satisfaction guarantee</strong>. If the product doesn’t work for you, simply contact our support team and we’ll guide you through the return and refund process.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question_fjFtBc": {
+          "type": "question",
+          "disabled": true,
+          "settings": {
+            "title": "How does the PrimePapas Club Membership work?",
+            "text": "<p>At checkout, you can select the <strong>First Time Offer option</strong>. You’ll enjoy a <strong>7-day free trial </strong>and enjoy discount on your first order, then the subscription continues at <strong>$37.99/month</strong>.<br/><br/>VIP members get access to <strong>exclusive deals</strong> and our private member zone 👉 <a href=\"https://secure.primepapas.com/club?utm_source=chatgpt.com\">secure.primepapas.com/club</a>.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question_QLiCHR": {
+          "type": "question",
+          "disabled": true,
+          "settings": {
+            "title": "How can I manage or cancel my subscription?",
+            "text": "<p>You can update your subscription, change payment details, or cancel anytime via your customer portal 👉 <a href=\"https://secure.primepapas.com/portal?utm_source=chatgpt.com\">secure.primepapas.com/portal</a>.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question_bdTJnQ": {
+          "type": "question",
+          "settings": {
+            "title": "How can I contact PrimePapas™ support?",
+            "text": "<p>Our team is here to help. Reach us by <strong>email</strong> at <a>support@primepapas.com</a> or by <strong>phone</strong> at <strong>+1 (806) 278-2126</strong>. We’ll get back to you quickly.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "question_MEDB3n",
+        "question_W3e7px",
+        "question_rA4MNw",
+        "question_3kgeJB",
+        "question_fjFtBc",
+        "question_QLiCHR",
+        "question_bdTJnQ"
+      ],
+      "name": "t:sections.faq.presets.name",
+      "settings": {
+        "style": "with-border",
+        "heading": "FAQs",
+        "heading_size": "title-md",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_external": false,
+        "button_icon": true,
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "color_overlay": "#ffffff",
+        "overlay_opacity": 4,
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "narrow": true,
+        "rounded": false
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "rich-text-1",
+    "featured_collection_mwxzgV",
+    "faq_dXGFcc"
+  ]
+}
