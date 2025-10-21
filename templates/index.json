@@ -59,7 +59,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>At PrimePapas™, we design products for men 30+ who want to fight back against the <strong>belly</strong>, the <strong>slouch</strong>, and the <strong>fatigue</strong>. </p><p>From compression tanks to posture braces and endurance trainers, every tool is built to help you <strong>look sharper</strong>, <strong>move stronger</strong>, and <strong>feel unstoppable</strong>.</p>",
+            "text": "<p>From classrooms to studios, Craftening helps ideas take shape and creativity come alive.</p>",
             "text_size": "subtext-md",
             "text_max_size": 32,
             "text_font": "body",
@@ -75,12 +75,12 @@
       "settings": {
         "text_alignment": "left",
         "text_alignment_mobile": "left",
-        "heading": "Strength. Posture. Confidence.",
+        "heading": "Imagine. Build. Express.",
         "heading_size": "title-md",
         "heading_alignment": "text-left md:items-end md:flex-row",
         "heading_width": "small",
         "heading_tag": "h2",
-        "subheading": "With gear built for men who refuse to fade.",
+        "subheading": "With tools made for those who love to create.",
         "description": "",
         "button_label": "",
         "button_link": "",
