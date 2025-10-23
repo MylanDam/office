@@ -242,7 +242,9 @@
             "show_price": true,
             "tab_target_1": "Tab heading",
             "tab_target_link_1": "",
-            "tab_products_1": [],
+            "tab_products_1": [
+              "acrylic-pen"
+            ],
             "tab_icon_width_1": 42,
             "promo_image_ratio_1": "square",
             "promo_heading_1": "",
