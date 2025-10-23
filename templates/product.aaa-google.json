@@ -90,12 +90,6 @@
             "show_price": true
           }
         },
-        "liquid_BEhWT4": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div style=\"margin: 0 !important; padding: 0 !important;\">\n  <div style=\"display: flex; overflow-x: auto; gap: 8px; scroll-snap-type: x mandatory; -webkit-overflow-scrolling: touch; scrollbar-width: none; -ms-overflow-style: none; padding: 0 !important; margin: 0 !important; margin-block: 0;\">\n    \n    <div style=\"flex: 0 0 auto; width: 100px; scroll-snap-align: start; border-radius: 6px; overflow: hidden;\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0757/1092/2992/files/Bibliothquepublicitaire-ezgif.com-crop.gif?v=1754482974\">\n    </div>\n\n    <div style=\"flex: 0 0 auto; width: 100px; scroll-snap-align: start; border-radius: 6px; overflow: hidden;\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0913/5079/4627/files/GIF_5.gif?v=1746610038\" alt=\"GIF 2\" style=\"width: 100%; height: auto; display: block; border-radius: 6px;\">\n    </div>\n\n    <div style=\"flex: 0 0 auto; width: 100px; scroll-snap-align: start; border-radius: 6px; overflow: hidden;\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0913/5079/4627/files/GIF_3.gif?v=1746610038\" alt=\"GIF 3\" style=\"width: 100%; height: auto; display: block; border-radius: 6px;\">\n    </div>\n\n    <div style=\"flex: 0 0 auto; width: 100px; scroll-snap-align: start; border-radius: 6px; overflow: hidden;\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0913/5079/4627/files/GIF_1_1cf27301-5abe-4954-a09c-3ac6a5fdba1f.gif?v=1746610038\" alt=\"GIF 4\" style=\"width: 100%; height: auto; display: block; border-radius: 6px;\">\n    </div>\n\n    <div style=\"flex: 0 0 auto; width: 100px; scroll-snap-align: start; border-radius: 6px; overflow: hidden;\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0913/5079/4627/files/GIF_2.gif?v=1746610039\" alt=\"GIF 5\" style=\"width: 100%; height: auto; display: block; border-radius: 6px;\">\n    </div>\n\n  </div>\n</div>"
-          }
-        },
         "collapsible_tab_peYwUi": {
           "type": "collapsible_tab",
           "settings": {
@@ -154,7 +148,6 @@
         "liquid_mm6kjF",
         "pickup_availability",
         "complementary",
-        "liquid_BEhWT4",
         "collapsible_tab_peYwUi",
         "collapsible_tab_HEfeJH",
         "collapsible_tab_UitXNW",
