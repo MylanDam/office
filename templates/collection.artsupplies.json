@@ -44,6 +44,78 @@
         "parallax_direction": "vertical"
       }
     },
+    "highlight_text_EmmApm": {
+      "type": "highlight-text",
+      "blocks": {
+        "heading_436yjW": {
+          "type": "heading",
+          "settings": {
+            "heading": "Art",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "image_4ckLga": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Pic-1.jpg",
+            "image_width": 150,
+            "image_height": 90,
+            "link": "",
+            "description": "",
+            "image_width_mobile": 90,
+            "image_height_mobile": 50
+          }
+        },
+        "heading_9iePeb": {
+          "type": "heading",
+          "settings": {
+            "heading": "Supplies",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "heading_436yjW",
+        "image_4ckLga",
+        "heading_9iePeb"
+      ],
+      "name": "t:sections.highlight-text.presets.name",
+      "settings": {
+        "text_alignment": "center",
+        "text_alignment_mobile": "center",
+        "heading": "",
+        "heading_size": "title-md",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_external": false,
+        "button_icon": true,
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 48,
+        "padding_bottom": 16,
+        "divider": false,
+        "narrow": true,
+        "rounded": false
+      }
+    },
     "collection_list_4zzhey": {
       "type": "collection-list",
       "blocks": {
@@ -97,12 +169,12 @@
         "image_ratio": "square",
         "show_products_count": true,
         "show_view_all": false,
-        "columns_mobile": "2",
+        "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "heading": "Get all essentials for school",
+        "heading": "",
         "heading_size": "title-md",
         "heading_alignment": "text-left md:items-end md:flex-row",
-        "heading_tag": "h2",
+        "heading_tag": "h3",
         "subheading": "",
         "description": "",
         "highlighted_text": "none",
@@ -115,8 +187,8 @@
         "color_button_text": "",
         "color_button_background": "",
         "color_button_gradient": "",
-        "padding_top": 72,
-        "padding_bottom": 72,
+        "padding_top": 12,
+        "padding_bottom": 40,
         "divider": false,
         "full_width": false,
         "rounded": false
@@ -154,6 +226,143 @@
         "rounded": true
       }
     },
+    "images_with_text_overlay_83x69j": {
+      "type": "images-with-text-overlay",
+      "blocks": {
+        "subheading_H97zTp": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "a curated selection of premium tools and materials for every artist.",
+            "subheading_size": "subtitle-lg",
+            "secondary_color": true
+          }
+        },
+        "heading_J6zxBU": {
+          "type": "heading",
+          "settings": {
+            "heading": "<em>Art Supplies</em> collection",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "text_WkWc6i": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Discover <strong>paints, brushes, sketchbooks, markers, canvases, and craft accessories</strong> designed to inspire creativity.<br/>Whether you’re a painter, illustrator, or hobbyist, find everything you need to bring your imagination to life with Craftening.</p>",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_font": "body",
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_H97zTp",
+        "heading_J6zxBU",
+        "text_WkWc6i"
+      ],
+      "name": "t:sections.images-with-text-overlay.presets.name",
+      "settings": {
+        "transparent_header": false,
+        "image_height": "650px",
+        "content_width": "small",
+        "content_position": "md:items-end md:justify-start",
+        "text_alignment": "left",
+        "image_1": "shopify://shop_images/7602624477367494dbdb58d58897cdf9.jpg",
+        "image_2": "shopify://shop_images/zig-fudebiyori-metallic-brush-pen-yaldizli-firca-uclu-marker-kalem-zig-paint-marker-kalem-zig-indirimli-79108-80-O.jpg",
+        "image_3": "shopify://shop_images/2025-10-23_02-14-07.png",
+        "image_4": "shopify://shop_images/IMG_3710.png",
+        "image_height_mobile": "auto",
+        "content_position_mobile": "items-end justify-start",
+        "text_alignment_mobile": "left",
+        "color_text": "#ffffff",
+        "color_highlight": "#e0a580",
+        "gradient_highlight": "",
+        "color_button_text": "#171717",
+        "color_button_background": "#ffffff",
+        "color_button_gradient": "",
+        "color_overlay": "#171717",
+        "overlay_opacity": 100,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "divider": false,
+        "full_width": true,
+        "rounded": false,
+        "enable_parallax": true
+      }
+    },
+    "faq_kTKR9w": {
+      "type": "faq",
+      "blocks": {
+        "question_YjMfBQ": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question_KUfAUB": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question_xQG8be": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "question_YjMfBQ",
+        "question_KUfAUB",
+        "question_xQG8be"
+      ],
+      "name": "t:sections.faq.presets.name",
+      "settings": {
+        "style": "with-border",
+        "heading": "FAQs",
+        "heading_size": "title-md",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_external": false,
+        "button_icon": true,
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "color_overlay": "#ffffff",
+        "overlay_opacity": 4,
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "narrow": true,
+        "rounded": false
+      }
+    },
     "recently-viewed": {
       "type": "recently-viewed",
       "settings": {
@@ -188,8 +397,11 @@
   },
   "order": [
     "main-collection-banner",
+    "highlight_text_EmmApm",
     "collection_list_4zzhey",
     "main-collection",
+    "images_with_text_overlay_83x69j",
+    "faq_kTKR9w",
     "recently-viewed"
   ]
 }
