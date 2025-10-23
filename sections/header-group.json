@@ -175,10 +175,10 @@
             "promo_overlay_opacity_5": 40
           }
         },
-        "mega_menu_Utt9cy": {
+        "mega_menu_N3GGjP": {
           "type": "mega_menu",
           "settings": {
-            "menu_title": "School & Office",
+            "menu_title": "Craft & DIY",
             "menu_width": "medium",
             "show_menu_image": false,
             "button_label": "Button label",
@@ -230,10 +230,10 @@
             "promo_overlay_opacity_5": 40
           }
         },
-        "mega_menu_N3GGjP": {
+        "mega_menu_Utt9cy": {
           "type": "mega_menu",
           "settings": {
-            "menu_title": "Craft & DIY",
+            "menu_title": "School & Office",
             "menu_width": "medium",
             "show_menu_image": false,
             "button_label": "Button label",
@@ -344,8 +344,8 @@
       "block_order": [
         "mega_menu_BJWbRc",
         "mega_menu_bRYHaY",
-        "mega_menu_Utt9cy",
         "mega_menu_N3GGjP",
+        "mega_menu_Utt9cy",
         "mega_menu_PtYMPG"
       ],
       "settings": {
