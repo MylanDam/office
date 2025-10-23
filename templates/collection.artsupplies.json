@@ -123,6 +123,7 @@
           "type": "collection",
           "settings": {
             "collection": "painting-colors",
+            "image": "shopify://shop_images/IMG_3710.png",
             "title": "",
             "description": "",
             "overlay_content": false,
@@ -146,7 +147,8 @@
         "collection_98wiMQ": {
           "type": "collection",
           "settings": {
-            "collection": "educational-creative-toys",
+            "collection": "accessories",
+            "image": "shopify://shop_images/7602624477367494dbdb58d58897cdf9.jpg",
             "title": "",
             "description": "",
             "overlay_content": false,
