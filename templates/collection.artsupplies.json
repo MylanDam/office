@@ -123,7 +123,7 @@
           "type": "collection",
           "settings": {
             "collection": "painting-colors",
-            "image": "shopify://shop_images/IMG_3710.png",
+            "image": "shopify://shop_images/Capture_d_ecran_2025-10-23_a_14.35.42.png",
             "title": "",
             "description": "",
             "overlay_content": false,
@@ -136,6 +136,7 @@
           "type": "collection",
           "settings": {
             "collection": "drawing-sketching",
+            "image": "shopify://shop_images/Capture_d_ecran_2025-10-23_a_14.35.42.png",
             "title": "",
             "description": "",
             "overlay_content": false,
@@ -148,7 +149,7 @@
           "type": "collection",
           "settings": {
             "collection": "accessories",
-            "image": "shopify://shop_images/7602624477367494dbdb58d58897cdf9.jpg",
+            "image": "shopify://shop_images/Capture_d_ecran_2025-10-23_a_14.35.42.png",
             "title": "",
             "description": "",
             "overlay_content": false,
@@ -212,8 +213,8 @@
         "subcollections"
       ],
       "settings": {
-        "products_per_page": 11,
-        "columns": 4,
+        "products_per_page": 15,
+        "columns": 5,
         "columns_mobile": "2",
         "pagination": "paginated",
         "enable_filtering": false,
