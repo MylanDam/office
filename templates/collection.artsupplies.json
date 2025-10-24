@@ -57,6 +57,16 @@
             "highlighted_scribble": "circle"
           }
         },
+        "heading_9iePeb": {
+          "type": "heading",
+          "settings": {
+            "heading": "Supplies",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
         "image_4ckLga": {
           "type": "image",
           "settings": {
@@ -68,22 +78,12 @@
             "image_width_mobile": 90,
             "image_height_mobile": 50
           }
-        },
-        "heading_9iePeb": {
-          "type": "heading",
-          "settings": {
-            "heading": "Supplies",
-            "heading_size": "title-lg tracking-heading",
-            "heading_tag": "h2",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
         }
       },
       "block_order": [
         "heading_436yjW",
-        "image_4ckLga",
-        "heading_9iePeb"
+        "heading_9iePeb",
+        "image_4ckLga"
       ],
       "name": "t:sections.highlight-text.presets.name",
       "settings": {
