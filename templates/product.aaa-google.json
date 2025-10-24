@@ -249,24 +249,6 @@
         "description": "<p>If you have any questions, you are always welcome to contact us. We'll get back to you as soon as possible, within 24 hours on weekdays.</p>"
       }
     },
-    "custom_liquid_kdWQkg": {
-      "type": "custom-liquid",
-      "name": "t:sections.custom-liquid.presets.name",
-      "settings": {
-        "liquid": "<style>\n  /* ---------- Base ---------- */\n  .usage-section-title{\n    text-align:center;\n    font-size:1.8rem;\n    font-weight:700;\n    margin-top:2rem;\n  }\n  .usage-carousel{\n    display:flex;\n    overflow-x:auto;\n    gap:1.5rem;\n    scroll-snap-type:x mandatory;\n    padding:2rem 1rem;\n    -ms-overflow-style:none;\n    scrollbar-width:none;\n    justify-content:center; /* desktop centering */\n  }\n  .usage-carousel::-webkit-scrollbar{ display:none; }\n\n  .usage-step{\n    flex:0 0 80%;\n    max-width:320px;\n    background:#fff;\n    border-radius:16px;\n    box-shadow:0 8px 20px rgba(0,0,0,.06);\n    scroll-snap-align:start;\n    padding-bottom:1rem;\n  }\n  .usage-step img{\n    width:100%;\n    height:220px;\n    object-fit:cover;\n    border-top-left-radius:16px;\n    border-top-right-radius:16px;\n  }\n  .usage-step-content{ padding:1.2rem; }\n  .usage-step h3{\n    margin:0 0 .5rem;\n    font-size:1.2rem;\n    font-weight:700;\n  }\n  .usage-step p{\n    font-size:.95rem;\n    line-height:1.5;\n    color:#333;\n    margin-bottom:0;\n  }\n\n  /* ---------- Mobile: show a peek of the next card ---------- */\n  @media (max-width:767px){\n    .usage-carousel{\n      gap:1rem;\n      padding:1rem 1rem 1rem 1rem; /* space on left edge */\n      justify-content:flex-start;\n      padding-right:2rem; /* allow last card to come fully into view */\n    }\n    .usage-step{\n      flex-basis:calc(100% - 3.5rem); /* slightly narrower than viewport -> shows next card */\n      max-width:none;\n    }\n  }\n\n  /* ---------- Desktop ---------- */\n  @media (min-width:768px){\n    .usage-carousel{ justify-content:center; }\n    .usage-step{ flex:0 0 300px; max-width:300px; }\n  }\n</style>\n\n<h2 class=\"usage-section-title\">How to Use SunLush</h2>\n\n<div class=\"usage-carousel\">\n  <div class=\"usage-step\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0913/5079/4627/files/IMAGE_2025-05-07_11_32_59.jpg?v=1746610384\" alt=\"Body Application\">\n    <div class=\"usage-step-content\">\n      <h3>🧴 Body</h3>\n      <p><strong>Apply generously</strong> to clean, dry skin. Massage in using circular motions for a <strong>smooth, even bronze</strong> all over your body.</p>\n    </div>\n  </div>\n\n  <div class=\"usage-step\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0913/5079/4627/files/IMAGE_2025-05-07_11_33_04.jpg?v=1746610389\" alt=\"Legs Application\">\n    <div class=\"usage-step-content\">\n      <h3>🦵 Legs</h3>\n      <p><strong>Smooth over thighs and calves</strong> in circular motions for an <strong>even, golden tan</strong> — no streaks, no mess.</p>\n    </div>\n  </div>\n\n  <div class=\"usage-step\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0913/5079/4627/files/IMAGE_2025-05-06_16_03_46.jpg?v=1746540230\" alt=\"Face Application\">\n    <div class=\"usage-step-content\">\n      <h3>😊 Face</h3>\n      <p><strong>Gently apply</strong> to your cheeks, forehead, and jawline for a <strong>natural glow</strong> that <strong>enhances your features</strong>.</p>\n    </div>\n  </div>\n</div>",
-        "color_text": "",
-        "color_background": "",
-        "gradient_background": "",
-        "color_button_text": "",
-        "color_button_background": "",
-        "color_button_gradient": "",
-        "padding_top": 12,
-        "padding_bottom": 12,
-        "divider": false,
-        "narrow": false,
-        "rounded": false
-      }
-    },
     "custom_liquid_iBNi8f": {
       "type": "custom-liquid",
       "name": "t:sections.custom-liquid.presets.name",
@@ -420,7 +402,6 @@
   "order": [
     "main-product",
     "help-drawer",
-    "custom_liquid_kdWQkg",
     "custom_liquid_iBNi8f",
     "faq_xEadB3",
     "product-recommendations",
