@@ -15637,3 +15637,6 @@ html.js .product__feed .drawer__header::before {
 .collection-art-supplies .main-content .media-card__link .media img, .collection-paper-pen .main-content .media-card__link .media img{
   height: 200px;
 }
+.mega-menu__nav{
+  display: flex;
+}
