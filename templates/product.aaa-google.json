@@ -93,8 +93,8 @@
         "product_bundle_FCW8ft": {
           "type": "product_bundle",
           "settings": {
-            "icon": "bag",
-            "icon_width": 20,
+            "icon": "none",
+            "icon_width": 12,
             "heading": "Popular upgrades",
             "products": [
               "acrylic-pen",
