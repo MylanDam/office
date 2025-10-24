@@ -123,7 +123,6 @@
           "type": "collection",
           "settings": {
             "collection": "painting-colors",
-            "image": "shopify://shop_images/Capture_d_ecran_2025-10-23_a_14.35.42.png",
             "title": "",
             "description": "",
             "overlay_content": false,
@@ -136,7 +135,6 @@
           "type": "collection",
           "settings": {
             "collection": "drawing-sketching",
-            "image": "shopify://shop_images/Capture_d_ecran_2025-10-23_a_14.35.42.png",
             "title": "",
             "description": "",
             "overlay_content": false,
@@ -149,7 +147,6 @@
           "type": "collection",
           "settings": {
             "collection": "accessories",
-            "image": "shopify://shop_images/Capture_d_ecran_2025-10-23_a_14.35.42.png",
             "title": "",
             "description": "",
             "overlay_content": false,
