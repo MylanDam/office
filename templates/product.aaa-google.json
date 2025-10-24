@@ -93,8 +93,7 @@
         "product_bundle_FCW8ft": {
           "type": "product_bundle",
           "settings": {
-            "icon": "award",
-            "icon_image": "shopify://shop_images/Capture_d_ecran_2025-10-23_a_14.35.42.png",
+            "icon": "bag",
             "icon_width": 20,
             "heading": "Popular upgrades",
             "products": [
