@@ -90,6 +90,21 @@
             "show_price": true
           }
         },
+        "product_bundle_FCW8ft": {
+          "type": "product_bundle",
+          "settings": {
+            "icon": "award",
+            "icon_image": "shopify://shop_images/Capture_d_ecran_2025-10-23_a_14.35.42.png",
+            "icon_width": 20,
+            "heading": "Popular upgrades",
+            "products": [
+              "acrylic-pen"
+            ],
+            "metafield": "",
+            "opened": true,
+            "clickable": false
+          }
+        },
         "collapsible_tab_peYwUi": {
           "type": "collapsible_tab",
           "settings": {
@@ -148,6 +163,7 @@
         "liquid_mm6kjF",
         "pickup_availability",
         "complementary",
+        "product_bundle_FCW8ft",
         "collapsible_tab_peYwUi",
         "collapsible_tab_HEfeJH",
         "collapsible_tab_UitXNW",
