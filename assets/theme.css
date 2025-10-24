@@ -15634,3 +15634,6 @@ html.js .product__feed .drawer__header::before {
     display: none;
   }
 }
+.collection-art-supplies .media-card__link .media img{
+  height: 260px;
+}
