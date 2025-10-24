@@ -98,7 +98,9 @@
             "icon_width": 20,
             "heading": "Popular upgrades",
             "products": [
-              "acrylic-pen"
+              "acrylic-pen",
+              "acrylic-pen-copie",
+              "acrylic-pen-copie-copie"
             ],
             "metafield": "",
             "opened": true,
