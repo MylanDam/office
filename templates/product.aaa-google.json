@@ -94,8 +94,8 @@
           "type": "product_bundle",
           "settings": {
             "icon": "none",
-            "icon_width": 12,
-            "heading": "Popular upgrades",
+            "icon_width": 10,
+            "heading": "Get the complete set",
             "products": [
               "acrylic-pen",
               "acrylic-pen-copie"
