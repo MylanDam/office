@@ -15640,8 +15640,8 @@ html.js .product__feed .drawer__header::before {
 .mega-menu__nav{
   display: flex;
 }
-@media screen and (max-width: 769x) {
-.collection-art-supplies .main-content .media-card__link .media img, .collection-paper-pen .main-content .media-card__link .media img {
-    height: 130px;
+@media screen and (max-width: 769px) {
+.collection-art-supplies .main-content .media-card__link .media img, .collection-paper-pen .main-content .media-card__link .media img{
+  height: 130px;
 }
 }
