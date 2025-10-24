@@ -69,7 +69,7 @@
           "type": "mega_menu",
           "settings": {
             "menu_title": "Art Supplies",
-            "menu_width": "small",
+            "menu_width": "large",
             "show_menu_image": false,
             "button_label": "All artist products",
             "button_link": "shopify://collections/art-supplies",
