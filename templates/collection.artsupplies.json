@@ -196,7 +196,7 @@
       "name": "t:sections.images-with-text-overlay.presets.name",
       "settings": {
         "transparent_header": false,
-        "image_height": "650px",
+        "image_height": "500px",
         "content_width": "small",
         "content_position": "md:items-end md:justify-start",
         "text_alignment": "left",
