@@ -73,6 +73,7 @@
             "show_menu_image": false,
             "button_label": "All artist products",
             "button_link": "shopify://collections/art-supplies",
+            "promo_image_1": "shopify://shop_images/2025-10-24_00-15-56_491c0de0-e8db-4fed-9860-ff92b9f1e0da.png",
             "promo_image_ratio_1": "adapt",
             "promo_heading_1": "",
             "promo_subtext_1": "",
