@@ -223,7 +223,7 @@
       "settings": {
         "transparent_header": false,
         "image_height": "500px",
-        "content_width": "small",
+        "content_width": "medium",
         "content_position": "md:items-end md:justify-start",
         "text_alignment": "left",
         "image_1": "shopify://shop_images/7602624477367494dbdb58d58897cdf9.jpg",
