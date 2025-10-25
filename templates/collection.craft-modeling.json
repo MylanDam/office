@@ -50,8 +50,8 @@
         "collection_dXCF3b": {
           "type": "collection",
           "settings": {
-            "collection": "painting-colors",
-            "title": "",
+            "collection": "wood-carving-tools",
+            "title": "Wood carving tools",
             "description": "",
             "overlay_content": false,
             "color_text": "#ffffff",
@@ -62,8 +62,8 @@
         "collection_mTYfgV": {
           "type": "collection",
           "settings": {
-            "collection": "drawing-sketching",
-            "title": "",
+            "collection": "pyrography-kits",
+            "title": "Pyrography kits",
             "description": "",
             "overlay_content": false,
             "color_text": "#ffffff",
@@ -74,8 +74,20 @@
         "collection_98wiMQ": {
           "type": "collection",
           "settings": {
-            "collection": "accessories",
-            "title": "",
+            "collection": "clay-modeling-materials",
+            "title": "Modeling & Pottery",
+            "description": "",
+            "overlay_content": false,
+            "color_text": "#ffffff",
+            "color_overlay": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_YM93Bx": {
+          "type": "collection",
+          "settings": {
+            "collection": "hand-casting-kits",
+            "title": "Casting kits",
             "description": "",
             "overlay_content": false,
             "color_text": "#ffffff",
@@ -87,7 +99,8 @@
       "block_order": [
         "collection_dXCF3b",
         "collection_mTYfgV",
-        "collection_98wiMQ"
+        "collection_98wiMQ",
+        "collection_YM93Bx"
       ],
       "name": "t:sections.collection-list.presets.name",
       "settings": {
