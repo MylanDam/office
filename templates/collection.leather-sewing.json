@@ -50,8 +50,8 @@
         "collection_dXCF3b": {
           "type": "collection",
           "settings": {
-            "collection": "paint-brush",
-            "title": "Paint brushes",
+            "collection": "leather-sheets",
+            "title": "Leather sheets & Scraps",
             "description": "",
             "overlay_content": false,
             "color_text": "#ffffff",
@@ -62,8 +62,8 @@
         "collection_mTYfgV": {
           "type": "collection",
           "settings": {
-            "collection": "painting-palettes",
-            "title": "Painting palettes",
+            "collection": "leather-working-tools",
+            "title": "Cutting & Punching tools",
             "description": "",
             "overlay_content": false,
             "color_text": "#ffffff",
@@ -74,8 +74,8 @@
         "collection_98wiMQ": {
           "type": "collection",
           "settings": {
-            "collection": "palette-knives",
-            "title": "Palette knives",
+            "collection": "sewing-kits",
+            "title": "Sewing kits",
             "description": "",
             "overlay_content": false,
             "color_text": "#ffffff",
@@ -86,8 +86,8 @@
         "collection_EJWEhA": {
           "type": "collection",
           "settings": {
-            "collection": "sketchbooks",
-            "title": "Sketchbooks",
+            "collection": "sewing-cutting-tools",
+            "title": "Textile tools",
             "description": "",
             "overlay_content": false,
             "color_text": "#ffffff",
@@ -112,7 +112,7 @@
         "show_view_all": false,
         "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "heading": "Where tools meet inspiration.",
+        "heading": "Where precision meets passion.",
         "heading_size": "title-md",
         "heading_alignment": "text-left md:items-end md:flex-row",
         "heading_tag": "h3",
