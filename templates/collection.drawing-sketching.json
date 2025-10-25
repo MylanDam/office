@@ -50,8 +50,8 @@
         "collection_dXCF3b": {
           "type": "collection",
           "settings": {
-            "collection": "painting-colors",
-            "title": "",
+            "collection": "brush-pens",
+            "title": "Brush pens",
             "description": "",
             "overlay_content": false,
             "color_text": "#ffffff",
@@ -82,12 +82,51 @@
             "color_overlay": "#000000",
             "overlay_opacity": 30
           }
+        },
+        "collection_7hBbf9": {
+          "type": "collection",
+          "settings": {
+            "collection": "accessories",
+            "title": "",
+            "description": "",
+            "overlay_content": false,
+            "color_text": "#ffffff",
+            "color_overlay": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_QBRfxF": {
+          "type": "collection",
+          "settings": {
+            "collection": "accessories",
+            "title": "",
+            "description": "",
+            "overlay_content": false,
+            "color_text": "#ffffff",
+            "color_overlay": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_tc4Fep": {
+          "type": "collection",
+          "settings": {
+            "collection": "accessories",
+            "title": "",
+            "description": "",
+            "overlay_content": false,
+            "color_text": "#ffffff",
+            "color_overlay": "#000000",
+            "overlay_opacity": 30
+          }
         }
       },
       "block_order": [
         "collection_dXCF3b",
         "collection_mTYfgV",
-        "collection_98wiMQ"
+        "collection_98wiMQ",
+        "collection_7hBbf9",
+        "collection_QBRfxF",
+        "collection_tc4Fep"
       ],
       "name": "t:sections.collection-list.presets.name",
       "settings": {
