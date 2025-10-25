@@ -173,7 +173,7 @@
         "subheading_H97zTp": {
           "type": "subheading",
           "settings": {
-            "subheading": "a curated selection of premium tools and materials for every artist.",
+            "subheading": "Unleash your creativity – designed for artists, makers, and dreamers.",
             "subheading_size": "subtitle-lg",
             "secondary_color": true
           }
@@ -181,7 +181,7 @@
         "heading_J6zxBU": {
           "type": "heading",
           "settings": {
-            "heading": "<em>Art Supplies</em> collection",
+            "heading": "<em>Handcraft & Modeling</em> collection",
             "heading_size": "title-lg tracking-heading",
             "heading_tag": "h2",
             "highlighted_text": "none",
@@ -191,7 +191,7 @@
         "text_WkWc6i": {
           "type": "text",
           "settings": {
-            "text": "<p>Discover <strong>paints, brushes, sketchbooks, markers, canvases, and craft accessories</strong> designed to inspire creativity.<br/>Whether you’re a painter, illustrator, or hobbyist, find everything you need to bring your imagination to life with Craftening.</p>",
+            "text": "<p>Explore <strong>clay, sculpting tools, and crafting materials</strong> that let you <strong>shape, carve, and mold</strong> your ideas into tangible art.<br/>Perfect for <strong>modeling, pottery, miniatures</strong>, and any hands-on creative project.</p>",
             "text_size": "subtext-md",
             "text_max_size": 32,
             "text_font": "body",
