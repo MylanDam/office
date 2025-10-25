@@ -173,7 +173,7 @@
         "subheading_H97zTp": {
           "type": "subheading",
           "settings": {
-            "subheading": "a curated selection of premium tools and materials for every artist.",
+            "subheading": "high-quality stationery designed for writing, journaling, note-taking, and creative projects.",
             "subheading_size": "subtitle-lg",
             "secondary_color": true
           }
@@ -181,7 +181,7 @@
         "heading_J6zxBU": {
           "type": "heading",
           "settings": {
-            "heading": "<em>Art Supplies</em> collection",
+            "heading": "<em>Paper & Notebooks</em> collection",
             "heading_size": "title-lg tracking-heading",
             "heading_tag": "h2",
             "highlighted_text": "none",
@@ -191,7 +191,7 @@
         "text_WkWc6i": {
           "type": "text",
           "settings": {
-            "text": "<p>Discover <strong>paints, brushes, sketchbooks, markers, canvases, and craft accessories</strong> designed to inspire creativity.<br/>Whether you’re a painter, illustrator, or hobbyist, find everything you need to bring your imagination to life with Craftening.</p>",
+            "text": "<p>Find <strong>smooth papers, durable notebooks, and premium materials</strong> that provide a comfortable writing experience and vibrant results.<br/>Perfect for <strong>students, professionals, and creatives</strong>, Craftening Paper & Notebooks elevate every idea and project.</p>",
             "text_size": "subtext-md",
             "text_max_size": 32,
             "text_font": "body",
