@@ -63,7 +63,7 @@
           "type": "collection",
           "settings": {
             "collection": "textile-leather-craft",
-            "title": "Textile & Leather Craft",
+            "title": "Textile & Leather craft",
             "description": "",
             "overlay_content": false,
             "color_text": "#ffffff",
@@ -75,7 +75,7 @@
           "type": "collection",
           "settings": {
             "collection": "diy-art-kits",
-            "title": "Creative Kits",
+            "title": "Creative kits",
             "description": "",
             "overlay_content": false,
             "color_text": "#ffffff",
@@ -160,7 +160,7 @@
         "subheading_H97zTp": {
           "type": "subheading",
           "settings": {
-            "subheading": "Explore our Craft & DIY collection – your go-to source for creative tools, materials, and inspiration.",
+            "subheading": "Your go-to source for creative tools, materials, and inspiration.",
             "subheading_size": "subtitle-lg",
             "secondary_color": true
           }
