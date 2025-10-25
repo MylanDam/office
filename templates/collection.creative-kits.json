@@ -50,8 +50,8 @@
         "collection_dXCF3b": {
           "type": "collection",
           "settings": {
-            "collection": "painting-colors",
-            "title": "",
+            "collection": "paint-by-numbers",
+            "title": "Paint by numbers",
             "description": "",
             "overlay_content": false,
             "color_text": "#ffffff",
@@ -62,8 +62,8 @@
         "collection_mTYfgV": {
           "type": "collection",
           "settings": {
-            "collection": "drawing-sketching",
-            "title": "",
+            "collection": "diamond-painting-kits",
+            "title": "Diamond painting",
             "description": "",
             "overlay_content": false,
             "color_text": "#ffffff",
@@ -74,8 +74,8 @@
         "collection_98wiMQ": {
           "type": "collection",
           "settings": {
-            "collection": "accessories",
-            "title": "",
+            "collection": "craft-paints",
+            "title": "Craft paints",
             "description": "",
             "overlay_content": false,
             "color_text": "#ffffff",
@@ -86,8 +86,8 @@
         "collection_gH8r7h": {
           "type": "collection",
           "settings": {
-            "collection": "accessories",
-            "title": "",
+            "collection": "crochet-kits",
+            "title": "Crochet kits",
             "description": "",
             "overlay_content": false,
             "color_text": "#ffffff",
@@ -98,8 +98,8 @@
         "collection_L9F8rB": {
           "type": "collection",
           "settings": {
-            "collection": "accessories",
-            "title": "",
+            "collection": "cross-stitch-kits",
+            "title": "Cross stitch kits",
             "description": "",
             "overlay_content": false,
             "color_text": "#ffffff",
