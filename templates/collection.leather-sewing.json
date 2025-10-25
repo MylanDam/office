@@ -173,7 +173,7 @@
         "subheading_H97zTp": {
           "type": "subheading",
           "settings": {
-            "subheading": "Practical and stylish add-ons that complement your school or art supplies.",
+            "subheading": "a creative fusion of fabric and leather artistry.",
             "subheading_size": "subtitle-lg",
             "secondary_color": true
           }
@@ -181,7 +181,7 @@
         "heading_J6zxBU": {
           "type": "heading",
           "settings": {
-            "heading": "<em>Accessories</em> collection",
+            "heading": "<em>Leather craft & Textile</em>",
             "heading_size": "title-lg tracking-heading",
             "heading_tag": "h2",
             "highlighted_text": "none",
@@ -191,7 +191,7 @@
         "text_WkWc6i": {
           "type": "text",
           "settings": {
-            "text": "<p>From <strong>desk organizers and pencil sharpeners</strong> to <strong>decorative items and small tools</strong>, each accessory helps <strong>keep your workspace organized and creative</strong>.<br/>Ideal for students, artists, and anyone who loves to stay organized and inspired.</p>",
+            "text": "<p>From <strong>sewing essentials and cutting tools</strong> to <strong>stitching kits and leatherworking supplies</strong>, everything you need to <strong>design elegant handmade pieces</strong> is here.<br/>Perfect for <strong>DIY creators, artisans, and craft enthusiasts</strong> who love working with texture, precision, and timeless style.</p>",
             "text_size": "subtext-md",
             "text_max_size": 32,
             "text_font": "body",
@@ -210,7 +210,7 @@
       "settings": {
         "transparent_header": false,
         "image_height": "500px",
-        "content_width": "small",
+        "content_width": "medium",
         "content_position": "md:items-end md:justify-start",
         "text_alignment": "left",
         "image_1": "shopify://shop_images/7602624477367494dbdb58d58897cdf9.jpg",
