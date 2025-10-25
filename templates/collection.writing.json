@@ -1,0 +1,347 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main-collection-banner": {
+      "type": "main-collection-banner",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "title_size": "title-xl"
+          }
+        }
+      },
+      "block_order": [
+        "title"
+      ],
+      "disabled": true,
+      "settings": {
+        "transparent_header": true,
+        "show_image": false,
+        "image_height": "750px",
+        "content_position": "md:items-end md:justify-start",
+        "text_alignment": "left",
+        "image_height_mobile": "auto",
+        "content_position_mobile": "items-end justify-start",
+        "text_alignment_mobile": "left",
+        "color_text": "#ffffff",
+        "color_overlay": "#000000",
+        "overlay_opacity": 40,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "divider": false,
+        "full_width": true,
+        "rounded": true,
+        "enable_parallax": true,
+        "parallax_direction": "vertical"
+      }
+    },
+    "collection_list_4zzhey": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_dXCF3b": {
+          "type": "collection",
+          "settings": {
+            "collection": "paint-brush",
+            "title": "Paint brushes",
+            "description": "",
+            "overlay_content": false,
+            "color_text": "#ffffff",
+            "color_overlay": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_mTYfgV": {
+          "type": "collection",
+          "settings": {
+            "collection": "painting-palettes",
+            "title": "Painting palettes",
+            "description": "",
+            "overlay_content": false,
+            "color_text": "#ffffff",
+            "color_overlay": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_98wiMQ": {
+          "type": "collection",
+          "settings": {
+            "collection": "palette-knives",
+            "title": "Palette knives",
+            "description": "",
+            "overlay_content": false,
+            "color_text": "#ffffff",
+            "color_overlay": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_EJWEhA": {
+          "type": "collection",
+          "settings": {
+            "collection": "sketchbooks",
+            "title": "Sketchbooks",
+            "description": "",
+            "overlay_content": false,
+            "color_text": "#ffffff",
+            "color_overlay": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "collection_dXCF3b",
+        "collection_mTYfgV",
+        "collection_98wiMQ",
+        "collection_EJWEhA"
+      ],
+      "name": "t:sections.collection-list.presets.name",
+      "settings": {
+        "columns": 3,
+        "carousel_on_desktop": true,
+        "image_type": "collection",
+        "image_ratio": "square",
+        "show_products_count": true,
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "heading": "Where tools meet inspiration.",
+        "heading_size": "title-md",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_tag": "h3",
+        "subheading": "",
+        "description": "",
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 48,
+        "padding_bottom": 72,
+        "divider": false,
+        "full_width": false,
+        "rounded": false
+      }
+    },
+    "main-collection": {
+      "type": "main-collection",
+      "blocks": {
+        "subcollections": {
+          "type": "subcollections",
+          "settings": {
+            "menu": "",
+            "per_row": 5,
+            "show_count": true
+          }
+        }
+      },
+      "block_order": [
+        "subcollections"
+      ],
+      "settings": {
+        "products_per_page": 15,
+        "columns": 5,
+        "columns_mobile": "2",
+        "pagination": "paginated",
+        "enable_filtering": false,
+        "filter_collapsed": false,
+        "filter_type": "drawer",
+        "filter_color_swatches": true,
+        "enable_sorting": false,
+        "padding_top": 40,
+        "padding_bottom": 100,
+        "divider": false,
+        "full_width": false,
+        "rounded": true
+      }
+    },
+    "images_with_text_overlay_83x69j": {
+      "type": "images-with-text-overlay",
+      "blocks": {
+        "subheading_H97zTp": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Practical and stylish add-ons that complement your school or art supplies.",
+            "subheading_size": "subtitle-lg",
+            "secondary_color": true
+          }
+        },
+        "heading_J6zxBU": {
+          "type": "heading",
+          "settings": {
+            "heading": "<em>Accessories</em> collection",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "text_WkWc6i": {
+          "type": "text",
+          "settings": {
+            "text": "<p>From <strong>desk organizers and pencil sharpeners</strong> to <strong>decorative items and small tools</strong>, each accessory helps <strong>keep your workspace organized and creative</strong>.<br/>Ideal for students, artists, and anyone who loves to stay organized and inspired.</p>",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_font": "body",
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_H97zTp",
+        "heading_J6zxBU",
+        "text_WkWc6i"
+      ],
+      "name": "t:sections.images-with-text-overlay.presets.name",
+      "settings": {
+        "transparent_header": false,
+        "image_height": "500px",
+        "content_width": "small",
+        "content_position": "md:items-end md:justify-start",
+        "text_alignment": "left",
+        "image_1": "shopify://shop_images/7602624477367494dbdb58d58897cdf9.jpg",
+        "image_2": "shopify://shop_images/zig-fudebiyori-metallic-brush-pen-yaldizli-firca-uclu-marker-kalem-zig-paint-marker-kalem-zig-indirimli-79108-80-O.jpg",
+        "image_3": "shopify://shop_images/2025-10-23_02-14-07.png",
+        "image_4": "shopify://shop_images/IMG_3710.png",
+        "image_height_mobile": "auto",
+        "content_position_mobile": "items-end justify-start",
+        "text_alignment_mobile": "left",
+        "color_text": "#ffffff",
+        "color_highlight": "#e0a580",
+        "gradient_highlight": "",
+        "color_button_text": "#171717",
+        "color_button_background": "#ffffff",
+        "color_button_gradient": "",
+        "color_overlay": "#171717",
+        "overlay_opacity": 100,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "divider": false,
+        "full_width": true,
+        "rounded": false,
+        "enable_parallax": true
+      }
+    },
+    "faq_kTKR9w": {
+      "type": "faq",
+      "blocks": {
+        "question_YjMfBQ": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question_KUfAUB": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question_xQG8be": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "question_YjMfBQ",
+        "question_KUfAUB",
+        "question_xQG8be"
+      ],
+      "name": "t:sections.faq.presets.name",
+      "settings": {
+        "style": "with-border",
+        "heading": "FAQs",
+        "heading_size": "title-md",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_external": false,
+        "button_icon": true,
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "color_overlay": "#ffffff",
+        "overlay_opacity": 4,
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "narrow": true,
+        "rounded": false
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "settings": {
+        "product_limit": 6,
+        "columns": 4,
+        "carousel_on_desktop": true,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "heading": "Recently Viewed",
+        "heading_size": "title-md",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 80,
+        "divider": false,
+        "full_width": false,
+        "rounded": true
+      }
+    }
+  },
+  "order": [
+    "main-collection-banner",
+    "collection_list_4zzhey",
+    "main-collection",
+    "images_with_text_overlay_83x69j",
+    "faq_kTKR9w",
+    "recently-viewed"
+  ]
+}
