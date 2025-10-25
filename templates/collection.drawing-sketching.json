@@ -62,8 +62,8 @@
         "collection_mTYfgV": {
           "type": "collection",
           "settings": {
-            "collection": "drawing-sketching",
-            "title": "",
+            "collection": "color-pencils",
+            "title": "Color pencils",
             "description": "",
             "overlay_content": false,
             "color_text": "#ffffff",
@@ -74,8 +74,8 @@
         "collection_98wiMQ": {
           "type": "collection",
           "settings": {
-            "collection": "accessories",
-            "title": "",
+            "collection": "charcoal-pencils-sticks",
+            "title": "Charcoal pencils & Sticks",
             "description": "",
             "overlay_content": false,
             "color_text": "#ffffff",
@@ -86,8 +86,8 @@
         "collection_7hBbf9": {
           "type": "collection",
           "settings": {
-            "collection": "accessories",
-            "title": "",
+            "collection": "felt-pens-liners",
+            "title": "Felt pens & Liners",
             "description": "",
             "overlay_content": false,
             "color_text": "#ffffff",
@@ -98,8 +98,8 @@
         "collection_QBRfxF": {
           "type": "collection",
           "settings": {
-            "collection": "accessories",
-            "title": "",
+            "collection": "graphite-pencils",
+            "title": "Graphite pencils",
             "description": "",
             "overlay_content": false,
             "color_text": "#ffffff",
@@ -110,8 +110,8 @@
         "collection_tc4Fep": {
           "type": "collection",
           "settings": {
-            "collection": "accessories",
-            "title": "",
+            "collection": "paint-markers",
+            "title": "Paint markers",
             "description": "",
             "overlay_content": false,
             "color_text": "#ffffff",
