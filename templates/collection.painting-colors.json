@@ -86,8 +86,8 @@
         "collection_mwnLX3": {
           "type": "collection",
           "settings": {
-            "collection": "accessories",
-            "title": "",
+            "collection": "gouache-paints",
+            "title": "Gouaches",
             "description": "",
             "overlay_content": false,
             "color_text": "#ffffff",
@@ -98,8 +98,8 @@
         "collection_tTfLUy": {
           "type": "collection",
           "settings": {
-            "collection": "accessories",
-            "title": "",
+            "collection": "watercolor-paints",
+            "title": "Watercolors",
             "description": "",
             "overlay_content": false,
             "color_text": "#ffffff",
