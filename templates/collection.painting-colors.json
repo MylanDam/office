@@ -50,8 +50,8 @@
         "collection_dXCF3b": {
           "type": "collection",
           "settings": {
-            "collection": "painting-colors",
-            "title": "",
+            "collection": "acrylic-paints",
+            "title": "Acrylic Paints",
             "description": "",
             "overlay_content": false,
             "color_text": "#ffffff",
@@ -62,8 +62,8 @@
         "collection_mTYfgV": {
           "type": "collection",
           "settings": {
-            "collection": "drawing-sketching",
-            "title": "",
+            "collection": "oil-paints",
+            "title": "Oil Paints",
             "description": "",
             "overlay_content": false,
             "color_text": "#ffffff",
@@ -72,6 +72,30 @@
           }
         },
         "collection_98wiMQ": {
+          "type": "collection",
+          "settings": {
+            "collection": "oil-pastels",
+            "title": "Oil Pastels",
+            "description": "",
+            "overlay_content": false,
+            "color_text": "#ffffff",
+            "color_overlay": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_mwnLX3": {
+          "type": "collection",
+          "settings": {
+            "collection": "accessories",
+            "title": "",
+            "description": "",
+            "overlay_content": false,
+            "color_text": "#ffffff",
+            "color_overlay": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_tTfLUy": {
           "type": "collection",
           "settings": {
             "collection": "accessories",
@@ -87,7 +111,9 @@
       "block_order": [
         "collection_dXCF3b",
         "collection_mTYfgV",
-        "collection_98wiMQ"
+        "collection_98wiMQ",
+        "collection_mwnLX3",
+        "collection_tTfLUy"
       ],
       "name": "t:sections.collection-list.presets.name",
       "settings": {
