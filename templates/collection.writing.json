@@ -50,8 +50,8 @@
         "collection_dXCF3b": {
           "type": "collection",
           "settings": {
-            "collection": "paint-brush",
-            "title": "Paint brushes",
+            "collection": "ballpoint-roller-pens",
+            "title": "Ballpoints & Roller pens",
             "description": "",
             "overlay_content": false,
             "color_text": "#ffffff",
@@ -62,8 +62,8 @@
         "collection_mTYfgV": {
           "type": "collection",
           "settings": {
-            "collection": "painting-palettes",
-            "title": "Painting palettes",
+            "collection": "fountain-pens",
+            "title": "Fountain pens",
             "description": "",
             "overlay_content": false,
             "color_text": "#ffffff",
@@ -74,8 +74,8 @@
         "collection_98wiMQ": {
           "type": "collection",
           "settings": {
-            "collection": "palette-knives",
-            "title": "Palette knives",
+            "collection": "gel-pens",
+            "title": "Gel pens",
             "description": "",
             "overlay_content": false,
             "color_text": "#ffffff",
@@ -86,8 +86,32 @@
         "collection_EJWEhA": {
           "type": "collection",
           "settings": {
-            "collection": "sketchbooks",
-            "title": "Sketchbooks",
+            "collection": "calligraphy-pens",
+            "title": "Calligraphy pens",
+            "description": "",
+            "overlay_content": false,
+            "color_text": "#ffffff",
+            "color_overlay": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_wAbiH9": {
+          "type": "collection",
+          "settings": {
+            "collection": "fineliners-pens",
+            "title": "Technical pens & Fineliners",
+            "description": "",
+            "overlay_content": false,
+            "color_text": "#ffffff",
+            "color_overlay": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_NfGWt3": {
+          "type": "collection",
+          "settings": {
+            "collection": "marker-sets",
+            "title": "Marker sets",
             "description": "",
             "overlay_content": false,
             "color_text": "#ffffff",
@@ -100,7 +124,9 @@
         "collection_dXCF3b",
         "collection_mTYfgV",
         "collection_98wiMQ",
-        "collection_EJWEhA"
+        "collection_EJWEhA",
+        "collection_wAbiH9",
+        "collection_NfGWt3"
       ],
       "name": "t:sections.collection-list.presets.name",
       "settings": {
@@ -112,7 +138,7 @@
         "show_view_all": false,
         "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "heading": "Where tools meet inspiration.",
+        "heading": "Where words find their flow.",
         "heading_size": "title-md",
         "heading_alignment": "text-left md:items-end md:flex-row",
         "heading_tag": "h3",
@@ -173,7 +199,7 @@
         "subheading_H97zTp": {
           "type": "subheading",
           "settings": {
-            "subheading": "Practical and stylish add-ons that complement your school or art supplies.",
+            "subheading": "High-quality tools for note-taking, journaling, and creative expression.",
             "subheading_size": "subtitle-lg",
             "secondary_color": true
           }
@@ -181,7 +207,7 @@
         "heading_J6zxBU": {
           "type": "heading",
           "settings": {
-            "heading": "<em>Accessories</em> collection",
+            "heading": "<em>Writing</em> collection",
             "heading_size": "title-lg tracking-heading",
             "heading_tag": "h2",
             "highlighted_text": "none",
@@ -191,7 +217,7 @@
         "text_WkWc6i": {
           "type": "text",
           "settings": {
-            "text": "<p>From <strong>desk organizers and pencil sharpeners</strong> to <strong>decorative items and small tools</strong>, each accessory helps <strong>keep your workspace organized and creative</strong>.<br/>Ideal for students, artists, and anyone who loves to stay organized and inspired.</p>",
+            "text": "<p>Find <strong>smooth pens and vibrant markers </strong>that make writing effortless and enjoyable.<br/>Perfect for <strong>students, professionals, and creatives</strong>, Craftening Writing supplies bring comfort, style, and inspiration to every word.</p>",
             "text_size": "subtext-md",
             "text_max_size": 32,
             "text_font": "body",
