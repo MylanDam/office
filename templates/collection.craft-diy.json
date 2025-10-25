@@ -50,7 +50,7 @@
         "collection_dXCF3b": {
           "type": "collection",
           "settings": {
-            "collection": "painting-colors",
+            "collection": "handcraft-modeling",
             "title": "",
             "description": "",
             "overlay_content": false,
@@ -62,7 +62,7 @@
         "collection_mTYfgV": {
           "type": "collection",
           "settings": {
-            "collection": "drawing-sketching",
+            "collection": "textile-leather-craft",
             "title": "",
             "description": "",
             "overlay_content": false,
@@ -74,7 +74,7 @@
         "collection_98wiMQ": {
           "type": "collection",
           "settings": {
-            "collection": "accessories",
+            "collection": "diy-art-kits",
             "title": "",
             "description": "",
             "overlay_content": false,
