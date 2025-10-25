@@ -160,7 +160,7 @@
         "subheading_H97zTp": {
           "type": "subheading",
           "settings": {
-            "subheading": "a curated selection of premium tools and materials for every artist.",
+            "subheading": "Explore our Craft & DIY collection – your go-to source for creative tools, materials, and inspiration.",
             "subheading_size": "subtitle-lg",
             "secondary_color": true
           }
@@ -168,7 +168,7 @@
         "heading_J6zxBU": {
           "type": "heading",
           "settings": {
-            "heading": "<em>Art Supplies</em> collection",
+            "heading": "<em>Craft & DIY </em>collection",
             "heading_size": "title-lg tracking-heading",
             "heading_tag": "h2",
             "highlighted_text": "none",
@@ -178,7 +178,7 @@
         "text_WkWc6i": {
           "type": "text",
           "settings": {
-            "text": "<p>Discover <strong>paints, brushes, sketchbooks, markers, canvases, and craft accessories</strong> designed to inspire creativity.<br/>Whether you’re a painter, illustrator, or hobbyist, find everything you need to bring your imagination to life with Craftening.</p>",
+            "text": "<p>Whether you love painting, stitching, cutting, or designing, you’ll find <strong>everything you need to bring your ideas to life</strong>.<br/>From <strong>leather and textile crafts</strong> to <strong>DIY art kits</strong>, these supplies are perfect for anyone who enjoys <strong>making things by hand</strong>.</p>",
             "text_size": "subtext-md",
             "text_max_size": 32,
             "text_font": "body",
