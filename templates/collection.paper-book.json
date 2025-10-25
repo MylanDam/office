@@ -50,8 +50,8 @@
         "collection_dXCF3b": {
           "type": "collection",
           "settings": {
-            "collection": "painting-colors",
-            "title": "",
+            "collection": "notebooks-journals",
+            "title": "Notebooks & Journals",
             "description": "",
             "overlay_content": false,
             "color_text": "#ffffff",
@@ -62,8 +62,8 @@
         "collection_mTYfgV": {
           "type": "collection",
           "settings": {
-            "collection": "drawing-sketching",
-            "title": "",
+            "collection": "sketchbooks-high-quality",
+            "title": "Sketchbooks",
             "description": "",
             "overlay_content": false,
             "color_text": "#ffffff",
@@ -74,8 +74,20 @@
         "collection_98wiMQ": {
           "type": "collection",
           "settings": {
-            "collection": "accessories",
-            "title": "",
+            "collection": "specialty-paper",
+            "title": "Speciality paper",
+            "description": "",
+            "overlay_content": false,
+            "color_text": "#ffffff",
+            "color_overlay": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_fGeQ87": {
+          "type": "collection",
+          "settings": {
+            "collection": "scrapbooks-scrapbooks-creative-albums-albums-preserve-your-moments-and-artistic-work",
+            "title": "Scrapbooks & Creative albums",
             "description": "",
             "overlay_content": false,
             "color_text": "#ffffff",
@@ -87,7 +99,8 @@
       "block_order": [
         "collection_dXCF3b",
         "collection_mTYfgV",
-        "collection_98wiMQ"
+        "collection_98wiMQ",
+        "collection_fGeQ87"
       ],
       "name": "t:sections.collection-list.presets.name",
       "settings": {
@@ -99,7 +112,7 @@
         "show_view_all": false,
         "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "heading": "Where imagination takes form.",
+        "heading": "Where stories begin to unfold.",
         "heading_size": "title-md",
         "heading_alignment": "text-left md:items-end md:flex-row",
         "heading_tag": "h3",
