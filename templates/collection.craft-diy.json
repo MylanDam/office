@@ -51,7 +51,7 @@
           "type": "collection",
           "settings": {
             "collection": "handcraft-modeling",
-            "title": "",
+            "title": "Handcraft & Modeling",
             "description": "",
             "overlay_content": false,
             "color_text": "#ffffff",
@@ -63,7 +63,7 @@
           "type": "collection",
           "settings": {
             "collection": "textile-leather-craft",
-            "title": "",
+            "title": "Textile & Leather Craft",
             "description": "",
             "overlay_content": false,
             "color_text": "#ffffff",
@@ -75,7 +75,7 @@
           "type": "collection",
           "settings": {
             "collection": "diy-art-kits",
-            "title": "",
+            "title": "Creative Kits",
             "description": "",
             "overlay_content": false,
             "color_text": "#ffffff",
