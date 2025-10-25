@@ -51,7 +51,7 @@
           "type": "collection",
           "settings": {
             "collection": "acrylic-paints",
-            "title": "Acrylic Paints",
+            "title": "Acrylic paints",
             "description": "",
             "overlay_content": false,
             "color_text": "#ffffff",
@@ -63,7 +63,7 @@
           "type": "collection",
           "settings": {
             "collection": "oil-paints",
-            "title": "Oil Paints",
+            "title": "Oil paints",
             "description": "",
             "overlay_content": false,
             "color_text": "#ffffff",
@@ -75,7 +75,7 @@
           "type": "collection",
           "settings": {
             "collection": "oil-pastels",
-            "title": "Oil Pastels",
+            "title": "Oil pastels",
             "description": "",
             "overlay_content": false,
             "color_text": "#ffffff",
@@ -186,7 +186,7 @@
         "subheading_H97zTp": {
           "type": "subheading",
           "settings": {
-            "subheading": "Discover our Painting & Colors collection — your destination for premium art supplies.",
+            "subheading": "Your destination for premium art supplies.",
             "subheading_size": "subtitle-lg",
             "secondary_color": true
           }
