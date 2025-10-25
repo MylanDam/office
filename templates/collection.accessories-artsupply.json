@@ -50,8 +50,8 @@
         "collection_dXCF3b": {
           "type": "collection",
           "settings": {
-            "collection": "painting-colors",
-            "title": "",
+            "collection": "paint-brush",
+            "title": "Paint brushes",
             "description": "",
             "overlay_content": false,
             "color_text": "#ffffff",
@@ -62,8 +62,8 @@
         "collection_mTYfgV": {
           "type": "collection",
           "settings": {
-            "collection": "drawing-sketching",
-            "title": "",
+            "collection": "painting-palettes",
+            "title": "Painting palettes",
             "description": "",
             "overlay_content": false,
             "color_text": "#ffffff",
@@ -74,8 +74,20 @@
         "collection_98wiMQ": {
           "type": "collection",
           "settings": {
-            "collection": "accessories",
-            "title": "",
+            "collection": "palette-knives",
+            "title": "Palette knives",
+            "description": "",
+            "overlay_content": false,
+            "color_text": "#ffffff",
+            "color_overlay": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_EJWEhA": {
+          "type": "collection",
+          "settings": {
+            "collection": "sketchbooks",
+            "title": "Sketchbooks",
             "description": "",
             "overlay_content": false,
             "color_text": "#ffffff",
@@ -87,7 +99,8 @@
       "block_order": [
         "collection_dXCF3b",
         "collection_mTYfgV",
-        "collection_98wiMQ"
+        "collection_98wiMQ",
+        "collection_EJWEhA"
       ],
       "name": "t:sections.collection-list.presets.name",
       "settings": {
@@ -99,7 +112,7 @@
         "show_view_all": false,
         "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "heading": "Where imagination takes form.",
+        "heading": "Where tools meet inspiration.",
         "heading_size": "title-md",
         "heading_alignment": "text-left md:items-end md:flex-row",
         "heading_tag": "h3",
