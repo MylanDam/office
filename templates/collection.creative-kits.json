@@ -82,12 +82,38 @@
             "color_overlay": "#000000",
             "overlay_opacity": 30
           }
+        },
+        "collection_gH8r7h": {
+          "type": "collection",
+          "settings": {
+            "collection": "accessories",
+            "title": "",
+            "description": "",
+            "overlay_content": false,
+            "color_text": "#ffffff",
+            "color_overlay": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_L9F8rB": {
+          "type": "collection",
+          "settings": {
+            "collection": "accessories",
+            "title": "",
+            "description": "",
+            "overlay_content": false,
+            "color_text": "#ffffff",
+            "color_overlay": "#000000",
+            "overlay_opacity": 30
+          }
         }
       },
       "block_order": [
         "collection_dXCF3b",
         "collection_mTYfgV",
-        "collection_98wiMQ"
+        "collection_98wiMQ",
+        "collection_gH8r7h",
+        "collection_L9F8rB"
       ],
       "name": "t:sections.collection-list.presets.name",
       "settings": {
@@ -160,7 +186,7 @@
         "subheading_H97zTp": {
           "type": "subheading",
           "settings": {
-            "subheading": "a curated selection of premium tools and materials for every artist.",
+            "subheading": "designed to make creativity simple, relaxing, and inspiring.",
             "subheading_size": "subtitle-lg",
             "secondary_color": true
           }
@@ -168,7 +194,7 @@
         "heading_J6zxBU": {
           "type": "heading",
           "settings": {
-            "heading": "<em>Art Supplies</em> collection",
+            "heading": "<em>DIY & Art kits</em> collection",
             "heading_size": "title-lg tracking-heading",
             "heading_tag": "h2",
             "highlighted_text": "none",
@@ -178,7 +204,7 @@
         "text_WkWc6i": {
           "type": "text",
           "settings": {
-            "text": "<p>Discover <strong>paints, brushes, sketchbooks, markers, canvases, and craft accessories</strong> designed to inspire creativity.<br/>Whether you’re a painter, illustrator, or hobbyist, find everything you need to bring your imagination to life with Craftening.</p>",
+            "text": "<p>Each set includes <strong>all the essentials</strong> — paints, brushes, papers, and accessories — so you can focus on the joy of <strong>creating something by hand</strong>.<br/>Perfect for <strong>beginners, hobbyists, and mindful makers</strong> who want to explore their artistic side at home.</p>",
             "text_size": "subtext-md",
             "text_max_size": 32,
             "text_font": "body",
