@@ -268,8 +268,8 @@
         "question_YjMfBQ": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "title": "What’s the difference between ballpoint, rollerball, and gel pens?",
+            "text": "<p><strong>Ballpoint pens</strong> use oil-based ink that dries quickly, ideal for daily writing. <strong>Rollerball pens</strong> use liquid ink for smoother, darker lines, while <strong>gel pens</strong> combine the best of both — vivid colors with a soft glide. Each offers a unique <strong>writing experience</strong>.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -277,8 +277,8 @@
         "question_KUfAUB": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "title": "Are fountain pens good for everyday use?",
+            "text": "<p>Yes, <strong>fountain pens</strong> are perfect for those who value <strong>precision and elegance</strong>. Modern designs make them easy to refill and maintain. They’re excellent for <strong>journaling, note-taking,</strong> or <strong>professional writing</strong>, giving a touch of sophistication to every word.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -286,8 +286,26 @@
         "question_xQG8be": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "title": "What are calligraphy pens used for?",
+            "text": "<p><strong>Calligraphy pens</strong> are designed for <strong>artistic lettering</strong> and <strong>handwriting styles</strong>. They feature special nibs that allow you to vary line thickness, making them ideal for <strong>invitations, art projects,</strong> or <strong>decorative writing</strong>.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question_hAWWbT": {
+          "type": "question",
+          "settings": {
+            "title": "How do I choose the right writing pen for my needs?",
+            "text": "<p>If you write often, choose <strong>ergonomic pens</strong> with <strong>smooth ink flow</strong> to reduce hand fatigue. For sketching or technical work, go with <strong>fineliners</strong> or <strong>technical pens</strong>. Creative users can explore <strong>marker sets</strong> or <strong>gel pens</strong> for expressive color work.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question_4VmkRa": {
+          "type": "question",
+          "settings": {
+            "title": "How should I care for and store my pens?",
+            "text": "<p>Keep pens <strong>capped or retracted</strong> when not in use, store <strong>fountain pens horizontally</strong>, and clean nibs regularly to prevent ink buildup. Use <strong>pen cases</strong> or <strong>holders</strong> to keep your writing tools organized and extend their lifespan.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -296,7 +314,9 @@
       "block_order": [
         "question_YjMfBQ",
         "question_KUfAUB",
-        "question_xQG8be"
+        "question_xQG8be",
+        "question_hAWWbT",
+        "question_4VmkRa"
       ],
       "name": "t:sections.faq.presets.name",
       "settings": {
