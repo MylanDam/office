@@ -216,8 +216,8 @@
         "question_AqQHLD": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "title": "How do I choose the right pen and paper combination?",
+            "text": "<p>The best <strong>pen and paper pairing</strong> depends on your writing style. <strong>Fountain pens</strong> work best on <strong>smooth, high-quality paper</strong>, while <strong>gel or ballpoint pens</strong> suit most everyday notebooks. If you sketch or paint, <strong>thicker, acid-free paper</strong> prevents ink bleeding and preserves your artwork.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -225,8 +225,8 @@
         "question_aq4BAj": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "title": "What’s the difference between journals, sketchbooks, and notebooks?",
+            "text": "<p><strong>Notebooks</strong> are made for daily writing, <strong>journals</strong> are often used for reflection or creative planning, and <strong>sketchbooks</strong> have thicker pages designed for <strong>drawing, inking, or watercolor</strong>. Choose based on whether you write, draw, or mix both.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -234,8 +234,26 @@
         "question_kq7hp4": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "title": "Which pen type is best for different writing needs?",
+            "text": "<p>For smooth writing, go with <strong>gel or rollerball pens</strong>. For elegance and precision, use a <strong>fountain pen</strong>. Artists and designers love <strong>technical pens</strong>, <strong>fineliners</strong>, or <strong>marker sets</strong> for clean lines and illustrations. Each pen brings a unique <strong>flow and texture</strong> to your work.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question_kJhBpW": {
+          "type": "question",
+          "settings": {
+            "title": "How can I keep my writing tools and paper organized?",
+            "text": "<p>Use <strong>desk organizers</strong>, <strong>pen holders</strong>, and <strong>paper trays</strong> to keep your workspace clean and efficient. Proper organization not only protects your supplies but also <strong>inspires creativity</strong> and focus during work or study sessions.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question_yJL6zq": {
+          "type": "question",
+          "settings": {
+            "title": "Are premium writing tools and paper worth it?",
+            "text": "<p>Definitely. <strong>High-quality pens and notebooks</strong> offer better ink flow, smoother surfaces, and <strong>longer durability</strong>. Investing in good materials improves your <strong>writing comfort</strong>, ensures <strong>archival quality</strong>, and enhances the overall <strong>creative experience</strong>.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -244,7 +262,9 @@
       "block_order": [
         "question_AqQHLD",
         "question_aq4BAj",
-        "question_kq7hp4"
+        "question_kq7hp4",
+        "question_kJhBpW",
+        "question_yJL6zq"
       ],
       "name": "t:sections.faq.presets.name",
       "settings": {
