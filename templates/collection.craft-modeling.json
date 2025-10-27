@@ -242,8 +242,8 @@
         "question_YjMfBQ": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "title": "What tools do I need for wood carving and modeling?",
+            "text": "<p>Start with <strong>wood carving knives</strong>, <strong>chisels</strong>, and <strong>modeling tools</strong> that match your project size. Beginners can use <strong>starter carving sets</strong>, while advanced crafters may prefer <strong>precision blades</strong> and <strong>casting tools</strong> for finer details.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -251,8 +251,8 @@
         "question_KUfAUB": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "title": "What is the difference between modeling and carving?",
+            "text": "<p><strong>Carving</strong> removes material (like wood or clay) to create shapes, while <strong>modeling</strong> involves <strong>adding and shaping</strong> materials such as <strong>clay</strong>, <strong>resin</strong>, or <strong>wax</strong>. Both techniques help improve <strong>manual precision</strong> and <strong>artistic expression</strong>.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -260,8 +260,26 @@
         "question_xQG8be": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "title": "Are pyrography kits safe for beginners?",
+            "text": "<p>Yes, <strong>pyrography kits</strong> are safe when used correctly. Always work on <strong>heat-resistant surfaces</strong>, use <strong>protective gloves</strong>, and follow <strong>temperature settings</strong>. Start with <strong>simple wood designs</strong> before attempting detailed patterns.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question_tX6gFW": {
+          "type": "question",
+          "settings": {
+            "title": "What materials are best for casting projects?",
+            "text": "<p>For <strong>casting</strong>, use <strong>resin</strong>, <strong>plaster</strong>, or <strong>silicone molds</strong> depending on your desired finish. <strong>Resin</strong> gives a glossy look, while <strong>plaster</strong> offers a more natural texture. Always wear gloves and ensure proper ventilation during mixing.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question_FhngWx": {
+          "type": "question",
+          "settings": {
+            "title": "How do I maintain my crafting and modeling tools?",
+            "text": "<p>Clean <strong>blades and carving tools</strong> after each use, store them in a <strong>dry toolbox</strong>, and occasionally sharpen them. Keeping your tools in top condition ensures <strong>precision</strong>, <strong>safety</strong>, and <strong>longer lifespan</strong>.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -270,7 +288,9 @@
       "block_order": [
         "question_YjMfBQ",
         "question_KUfAUB",
-        "question_xQG8be"
+        "question_xQG8be",
+        "question_tX6gFW",
+        "question_FhngWx"
       ],
       "name": "t:sections.faq.presets.name",
       "settings": {
