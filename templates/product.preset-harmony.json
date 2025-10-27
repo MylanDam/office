@@ -427,7 +427,7 @@
         "highlighted_text": "scribble",
         "highlighted_scribble": "basic-underline",
         "color_text": "",
-        "color_background": "",
+        "color_background": "#efefef",
         "gradient_background": "",
         "color_highlight": "",
         "gradient_highlight": "",
