@@ -31,7 +31,7 @@
           "acrylic-pen-copie",
           "acrylic-pen-copie-copie"
         ],
-        "empty_cart_message": "<p>Not sure where to start?<br/>Try these collections:</p>",
+        "empty_cart_message": "<p>Try these collections:</p>",
         "empty_cart_collections": [
           "painting-colors",
           "drawing-sketching",
