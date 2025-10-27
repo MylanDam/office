@@ -36,6 +36,16 @@
             "text_size": "text-base"
           }
         },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "show_variant_labels": true,
+            "picker_type": "button",
+            "enable_color_swatches": true,
+            "color_swatch_type": "variant",
+            "size_chart": ""
+          }
+        },
         "product_bundle_r9NDV8": {
           "type": "product_bundle",
           "settings": {
@@ -60,16 +70,6 @@
             "color_text": "#e11d48",
             "color_background": "#fff1f2",
             "gradient_background": ""
-          }
-        },
-        "variant_picker": {
-          "type": "variant_picker",
-          "settings": {
-            "show_variant_labels": true,
-            "picker_type": "button",
-            "enable_color_swatches": true,
-            "color_swatch_type": "color",
-            "size_chart": ""
           }
         },
         "inventory": {
@@ -162,9 +162,9 @@
         "vendor",
         "title",
         "description",
+        "variant_picker",
         "product_bundle_r9NDV8",
         "countdown",
-        "variant_picker",
         "inventory",
         "buy_buttons",
         "pickup_availability",
