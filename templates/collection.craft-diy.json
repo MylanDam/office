@@ -229,8 +229,8 @@
         "question_YjMfBQ": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "title": "What are the best craft supplies to start with for beginners?",
+            "text": "<p>If you’re new to <strong>crafting</strong>, start simple with <strong>modeling tools</strong>, <strong>wood carving kits</strong>, and <strong>basic sewing materials</strong>. These essentials help you learn key techniques before moving to more advanced <strong>DIY projects</strong> like resin casting or textile creation.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -238,8 +238,8 @@
         "question_KUfAUB": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "title": "How do I choose the right materials for DIY projects?",
+            "text": "<p>Always choose <strong>materials</strong> based on the type of project — <strong>wood</strong>, <strong>leather</strong>, <strong>textiles</strong>, or <strong>paint kits</strong>. Look for items labeled <strong>easy to use</strong>, <strong>beginner-friendly</strong>, or <strong>eco-friendly</strong> if sustainability matters to you. Quality materials make your creations last longer and look more professional.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -247,8 +247,26 @@
         "question_xQG8be": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "title": "What’s the difference between craft kits and creative kits?",
+            "text": "<p><strong>Craft kits</strong> focus on hands-on skills like <strong>carving</strong>, <strong>casting</strong>, or <strong>sewing</strong>, while <strong>creative kits</strong> often include complete projects such as <strong>paint by numbers</strong>, <strong>diamond painting</strong>, or <strong>cross-stitch</strong>. Both are perfect for relaxing, learning, and expressing your creativity.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question_E3URbg": {
+          "type": "question",
+          "settings": {
+            "title": "How can I organize my craft tools efficiently?",
+            "text": "<p>Use <strong>storage boxes</strong>, <strong>drawer organizers</strong>, or <strong>tool racks</strong> to keep everything in order. A clean, organized workspace improves your <strong>focus</strong>, saves time, and boosts <strong>creative flow</strong> — especially when working on multiple DIY projects.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question_tP7czK": {
+          "type": "question",
+          "settings": {
+            "title": "Are DIY kits good for kids and families?",
+            "text": "<p>Absolutely! <strong>DIY kits</strong> are great for kids and family time. Choose <strong>non-toxic</strong>, <strong>safe</strong>, and <strong>age-appropriate materials</strong>. Activities like <strong>painting kits</strong> or <strong>simple textile crafts</strong> help children develop <strong>creativity</strong>, <strong>patience</strong>, and <strong>fine motor skills</strong>.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -257,7 +275,9 @@
       "block_order": [
         "question_YjMfBQ",
         "question_KUfAUB",
-        "question_xQG8be"
+        "question_xQG8be",
+        "question_E3URbg",
+        "question_tP7czK"
       ],
       "name": "t:sections.faq.presets.name",
       "settings": {
