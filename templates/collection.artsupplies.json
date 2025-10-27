@@ -229,8 +229,8 @@
         "question_YjMfBQ": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "title": "How do I choose the right art supplies for my skill level?",
+            "text": "<p>Start by considering your <strong>experience level</strong> and <strong>project type</strong>. Beginners can focus on essentials like <strong>graphite pencils</strong>, <strong>sketch pads</strong>, and <strong>watercolor sets</strong>, while advanced artists may prefer <strong>professional-grade paints</strong>, <strong>brushes</strong>, and <strong>canvases</strong>. Always choose <strong>quality materials</strong> within your budget to get consistent results.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -238,8 +238,8 @@
         "question_KUfAUB": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "title": "What are the must-have art supplies for beginners?",
+            "text": "<p>Every beginner should start with <strong>basic tools</strong>: <strong>sketching pencils</strong>, <strong>erasers</strong>, <strong>paper pads</strong>, <strong>brushes</strong>, and a simple set of <strong>acrylic or watercolor paints</strong>. These items help you <strong>experiment</strong>, <strong>learn techniques</strong>, and build confidence before investing in higher-end materials.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -247,8 +247,26 @@
         "question_xQG8be": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "title": "Which art supplies are best for kids or students?",
+            "text": "<p>For <strong>children</strong> or <strong>students</strong>, <strong>non-toxic</strong> and <strong>washable materials</strong> are best. Choose <strong>soft brushes</strong>, <strong>water-based paints</strong>, and <strong>sturdy paper</strong> that can handle repeated use. Look for <strong>art sets</strong> labeled <em>child-safe</em> or <em>school-grade</em> for peace of mind.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question_gGX86e": {
+          "type": "question",
+          "settings": {
+            "title": "Are expensive art supplies worth it?",
+            "text": "<p>Not always. Price doesn’t always equal quality. <strong>Mid-range brands</strong> often offer <strong>excellent results</strong>. The key is to <strong>test different materials</strong> and find what feels right for your <strong>style</strong> — comfort, texture, and consistency matter more than price tags.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question_w7khVD": {
+          "type": "question",
+          "settings": {
+            "title": "How should I store my art supplies to make them last?",
+            "text": "<p>Keep <strong>brushes upright</strong>, close <strong>paint tubes tightly</strong>, and store <strong>paper in a dry, flat place</strong>. Use <strong>organizers</strong>, <strong>storage boxes</strong>, and <strong>pencil cases</strong> to maintain your tools and keep your <strong>workspace tidy and inspiring</strong>.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -257,7 +275,9 @@
       "block_order": [
         "question_YjMfBQ",
         "question_KUfAUB",
-        "question_xQG8be"
+        "question_xQG8be",
+        "question_gGX86e",
+        "question_w7khVD"
       ],
       "name": "t:sections.faq.presets.name",
       "settings": {

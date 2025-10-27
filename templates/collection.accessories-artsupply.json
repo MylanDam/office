@@ -242,8 +242,8 @@
         "question_YjMfBQ": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "title": "1. How do I choose the right art supplies for my skill level?",
+            "text": "<p>Start by considering your experience and project type. Beginners can focus on essentials like graphite pencils, sketch pads, and watercolor sets, while advanced artists may prefer professional-grade paints, brushes, and canvases. Always choose quality materials within your budget to get consistent results.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -251,7 +251,7 @@
         "question_KUfAUB": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
+            "title": "What are the must-have art supplies for beginners?",
             "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
