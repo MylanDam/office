@@ -33,16 +33,6 @@
             "liquid": "<div class=\"pp-feature-bubble\">\n  <ul>\n    <li>Flattens beer belly & chest instantly</li>\n    <li>Improves posture & boosts confidence</li>\n    <li>Breathable fabric for all-day comfort</li>\n    <li>Discreet under any shirt or outfit</li>\n  </ul>\n</div>\n\n<style>\n  .pp-feature-bubble {\n    background: #F2F2F2;        /* gris clair */\n    border-radius: 12px;        /* arrondi bulles */\n    padding: 16px 18px;         /* espace intérieur ajusté */\n    margin: 20px 0;             /* garde une marge propre autour */\n    width: 100%;                /* occupe toute la largeur dispo */\n    max-width: 100%;            \n    box-sizing: border-box;\n    display: inline-block;      /* force la bulle autour du contenu */\n  }\n  .pp-feature-bubble ul {\n    list-style: none;\n    padding: 0;\n    margin: 0;\n  }\n  .pp-feature-bubble li {\n    font-size: 15px;            \n    line-height: 1.4;           \n    margin-bottom: 8px;         \n    display: flex;\n    align-items: flex-start;\n  }\n  .pp-feature-bubble li:last-child {\n    margin-bottom: 0;           \n  }\n  .pp-feature-bubble li::before {\n    content: \"✓\";\n    color: #00B862;\n    font-weight: 600;\n    margin-right: 8px;\n    flex-shrink: 0;\n  }\n</style>"
           }
         },
-        "countdown": {
-          "type": "countdown",
-          "settings": {
-            "heading": "Hurry up!",
-            "subheading": "Sale end in:",
-            "color_text": "#e11d48",
-            "color_background": "#fff1f2",
-            "gradient_background": ""
-          }
-        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -55,24 +45,8 @@
         },
         "liquid_RqP6XL": {
           "type": "liquid",
-          "disabled": true,
           "settings": {
             "liquid": "<div class=\"stock-alert\">\n  <span class=\"dot\"></span>\n  <span class=\"stock-text\" id=\"variant-stock-msg\">Checking stock...</span>\n</div>\n\n<style>\n  .stock-alert {\n    display: flex;\n    align-items: center;\n    gap: 8px;\n    margin: 10px 0;\n    font-weight: 500;\n    color: #1a1a1a;\n    font-size: 14px;\n  }\n\n  .stock-alert .dot {\n    height: 10px;\n    width: 10px;\n    background-color: limegreen;\n    border-radius: 50%;\n    animation: pulse 1s infinite;\n    box-shadow: 0 0 5px limegreen;\n  }\n\n  @keyframes pulse {\n    0% { opacity: 1; }\n    50% { opacity: 0.2; }\n    100% { opacity: 1; }\n  }\n</style>\n\n<script>\n  document.addEventListener(\"DOMContentLoaded\", function () {\n    const stockMsg = document.getElementById(\"variant-stock-msg\");\n\n    function getSelectedVariantId() {\n      const checkedInput = document.querySelector('input[name=\"id\"]:checked');\n      if (checkedInput) return checkedInput.value;\n\n      const formInput = document.querySelector('form[action*=\"/cart\"] input[name=\"id\"]');\n      if (formInput) return formInput.value;\n\n      return null;\n    }\n\n    function showStockMessage() {\n      const variantId = getSelectedVariantId();\n      if (!variantId) return;\n\n      stockMsg.textContent = \"Checking stock...\";\n\n      setTimeout(() => {\n        stockMsg.textContent = \"Currently in stock, ships within 24 hours\";\n      }, 1500);\n    }\n\n    showStockMessage();\n\n    document.querySelectorAll('input[name=\"id\"]').forEach(input => {\n      input.addEventListener(\"change\", showStockMessage);\n    });\n  });\n</script>"
-          }
-        },
-        "product_bundle_FCW8ft": {
-          "type": "product_bundle",
-          "settings": {
-            "icon": "none",
-            "icon_width": 10,
-            "heading": "Get the complete set",
-            "products": [
-              "🎨-mini-portable-watercolor-discovery-set",
-              "✏️-portable-notebook-van-gogh-limited-edition"
-            ],
-            "metafield": "",
-            "opened": true,
-            "clickable": false
           }
         },
         "buy_buttons": {
@@ -92,10 +66,6 @@
           "settings": {
             "liquid": "<div class=\"message-container\">\n  <div class=\"message show\"><strong>30-day money-back guarantee</strong></div>\n</div>\n\n<style>\n  .message-container {\n    position: relative;\n    height: 20px;\n    overflow: hidden;\n    text-align: center;\n    font-size: 10px;\n    margin-top: -20px;\n    padding-bottom: 10px;\n    color: #000;\n  }\n\n  .message {\n    position: absolute;\n    width: 100%;\n    opacity: 1;\n    transform: translateY(0);\n    transition: opacity 0.5s ease-in-out, transform 0.5s ease-in-out;\n  }\n\n  .message.show {\n    opacity: 1;\n    transform: translateY(0);\n  }\n</style>"
           }
-        },
-        "pickup_availability": {
-          "type": "pickup_availability",
-          "settings": {}
         },
         "collapsible_tab_peYwUi": {
           "type": "collapsible_tab",
@@ -136,10 +106,26 @@
         "complementary": {
           "type": "complementary",
           "settings": {
-            "heading": "Pairs well with",
-            "product_limit": 4,
+            "heading": "Get the full set",
+            "product_limit": 3,
             "show_vendor": false,
             "show_price": true
+          }
+        },
+        "product_bundle_FCW8ft": {
+          "type": "product_bundle",
+          "disabled": true,
+          "settings": {
+            "icon": "none",
+            "icon_width": 10,
+            "heading": "Get the complete set",
+            "products": [
+              "🎨-mini-portable-watercolor-discovery-set",
+              "✏️-portable-notebook-van-gogh-limited-edition"
+            ],
+            "metafield": "",
+            "opened": true,
+            "clickable": false
           }
         },
         "description": {
@@ -157,17 +143,15 @@
         "liquid_iecMDy",
         "title",
         "liquid_qr6ngm",
-        "countdown",
         "variant_picker",
         "liquid_RqP6XL",
-        "product_bundle_FCW8ft",
         "buy_buttons",
         "liquid_mm6kjF",
-        "pickup_availability",
         "collapsible_tab_peYwUi",
         "collapsible_tab_HEfeJH",
         "collapsible_tab_UitXNW",
         "complementary",
+        "product_bundle_FCW8ft",
         "description",
         "sticky_buy_button"
       ],
