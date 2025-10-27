@@ -62,26 +62,6 @@
             "clickable": false
           }
         },
-        "countdown": {
-          "type": "countdown",
-          "settings": {
-            "heading": "Hurry up!",
-            "subheading": "Sale end in:",
-            "color_text": "#e11d48",
-            "color_background": "#fff1f2",
-            "gradient_background": ""
-          }
-        },
-        "inventory": {
-          "type": "inventory",
-          "disabled": true,
-          "settings": {
-            "inventory_threshold": 15,
-            "show_inventory_transfer": true,
-            "show_inventory_quantity": "low",
-            "color_scheme": "accent-1"
-          }
-        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -93,10 +73,6 @@
             "show_back_in_stock_name": false,
             "show_back_in_stock_phone": false
           }
-        },
-        "pickup_availability": {
-          "type": "pickup_availability",
-          "settings": {}
         },
         "share": {
           "type": "share",
@@ -164,10 +140,7 @@
         "description",
         "variant_picker",
         "product_bundle_r9NDV8",
-        "countdown",
-        "inventory",
         "buy_buttons",
-        "pickup_availability",
         "share",
         "complementary",
         "text-1",
