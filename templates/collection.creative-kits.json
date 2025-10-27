@@ -255,8 +255,8 @@
         "question_YjMfBQ": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "title": "What are creative kits and how do they work?",
+            "text": "<p><strong>Creative kits</strong> include all the <strong>materials and tools</strong> you need to complete a specific project — like <strong>paint by numbers</strong>, <strong>diamond painting</strong>, or <strong>crochet sets</strong>. They’re perfect for beginners or anyone who wants to create without worrying about missing supplies.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -264,8 +264,8 @@
         "question_KUfAUB": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "title": "Are creative kits suitable for beginners?",
+            "text": "<p>Yes! Most <strong>DIY craft kits</strong> are designed for all skill levels. <strong>Paint-by-number</strong> and <strong>cross-stitch kits</strong> come with clear instructions and pre-marked designs, helping you build confidence and creativity step by step.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -273,8 +273,26 @@
         "question_xQG8be": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "title": "What’s the difference between paint by numbers and diamond painting?",
+            "text": "<p><strong>Paint by numbers</strong> uses <strong>acrylic paints</strong> to fill numbered areas on a canvas, while <strong>diamond painting</strong> involves placing tiny resin “diamonds” onto adhesive surfaces. Both are <strong>relaxing</strong>, <strong>mindful</strong>, and produce <strong>stunning artwork</strong> you can proudly display.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question_gBEqgp": {
+          "type": "question",
+          "settings": {
+            "title": "Can creative kits help with stress relief?",
+            "text": "<p>Absolutely. <strong>Art and craft activities</strong> like painting, stitching, or crocheting have proven <strong>calming effects</strong>. They help you <strong>unplug</strong>, focus on the present moment, and express your creativity — perfect for stress relief and mindfulness.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question_GHCyXL": {
+          "type": "question",
+          "settings": {
+            "title": "What tools or extras might I need for these kits?",
+            "text": "<p>Most <strong>craft kits</strong> come complete, but having a few extras like <strong>fine brushes</strong>, <strong>embroidery scissors</strong>, or <strong>storage trays</strong> for beads can make your experience smoother. A good <strong>workspace setup</strong> also helps keep your project neat and inspiring.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -283,7 +301,9 @@
       "block_order": [
         "question_YjMfBQ",
         "question_KUfAUB",
-        "question_xQG8be"
+        "question_xQG8be",
+        "question_gBEqgp",
+        "question_GHCyXL"
       ],
       "name": "t:sections.faq.presets.name",
       "settings": {
