@@ -131,13 +131,6 @@
             "clickable": false
           }
         },
-        "description": {
-          "type": "description",
-          "disabled": true,
-          "settings": {
-            "text_size": "text-base"
-          }
-        },
         "sticky_buy_button": {
           "type": "sticky_buy_button",
           "settings": {}
@@ -156,7 +149,6 @@
         "collapsible_tab_UitXNW",
         "complementary",
         "product_bundle_FCW8ft",
-        "description",
         "sticky_buy_button"
       ],
       "settings": {
