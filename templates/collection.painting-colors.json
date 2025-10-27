@@ -255,8 +255,8 @@
         "question_YjMfBQ": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "title": "What type of paint should I choose as a beginner?",
+            "text": "<p>If you’re new to painting, start with <strong>acrylic paints</strong> — they’re <strong>easy to use</strong>, <strong>quick-drying</strong>, and versatile on most surfaces. Once you’re more comfortable, you can explore <strong>watercolors</strong> for fluid, delicate effects or <strong>oil paints</strong> for deeper tones and blending.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -264,8 +264,8 @@
         "question_KUfAUB": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "title": "What’s the difference between acrylic, oil, and watercolor paints?",
+            "text": "<p><strong>Acrylic paints</strong> dry fast and are water-based, <strong>oil paints</strong> dry slowly and offer rich textures and blending, while <strong>watercolors</strong> are transparent and ideal for layering. Each medium creates a unique <strong>finish and artistic style</strong>.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -273,8 +273,26 @@
         "question_xQG8be": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "title": "How do I make colors look more vibrant?",
+            "text": "<p>Use <strong>high-pigment paints</strong>, apply <strong>thin layers</strong> for luminosity, and work on <strong>white or primed surfaces</strong>. Mixing <strong>complementary shades</strong> and using <strong>quality brushes</strong> can also enhance brightness and color contrast in your artwork.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question_TpWhkt": {
+          "type": "question",
+          "settings": {
+            "title": "Are gouache and oil pastels good for beginners?",
+            "text": "<p>Yes! <strong>Gouache</strong> is a <strong>matte, opaque paint</strong> that’s forgiving and easy to rework with water. <strong>Oil pastels</strong> are great for expressive strokes and color blending. Both are perfect for experimenting with <strong>texture and layering techniques</strong>.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question_eRFrJe": {
+          "type": "question",
+          "settings": {
+            "title": "How should I store and care for my paints?",
+            "text": "<p>Keep <strong>paint tubes tightly sealed</strong> and store them in a <strong>cool, dry place</strong>. Avoid direct sunlight and clean brushes thoroughly after each session. For <strong>oil paints</strong>, wipe brushes with <strong>solvent or linseed oil</strong>, while <strong>acrylics</strong> only need water and mild soap.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -283,7 +301,9 @@
       "block_order": [
         "question_YjMfBQ",
         "question_KUfAUB",
-        "question_xQG8be"
+        "question_xQG8be",
+        "question_TpWhkt",
+        "question_eRFrJe"
       ],
       "name": "t:sections.faq.presets.name",
       "settings": {
