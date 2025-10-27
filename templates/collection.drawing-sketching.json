@@ -268,8 +268,8 @@
         "question_YjMfBQ": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "title": "What are the essential tools for drawing and sketching?",
+            "text": "<p>Every artist should have a set of <strong>graphite pencils</strong>, <strong>color pencils</strong>, and <strong>charcoal sticks</strong> for shading and texture. Adding <strong>brush pens</strong>, <strong>liners</strong>, and <strong>paint markers</strong> helps you experiment with both soft and bold lines.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -277,8 +277,8 @@
         "question_KUfAUB": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "title": "What’s the difference between graphite, charcoal, and color pencils?",
+            "text": "<p><strong>Graphite pencils</strong> are ideal for clean lines and precision, <strong>charcoal</strong> gives rich, dramatic shadows, while <strong>color pencils</strong> allow expressive, vibrant work. Many artists combine all three for <strong>depth and contrast</strong> in sketches.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -286,8 +286,26 @@
         "question_xQG8be": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "title": "Are brush pens good for sketching?",
+            "text": "<p>Yes! <strong>Brush pens</strong> offer excellent <strong>line variation</strong> and <strong>smooth blending</strong>, making them perfect for dynamic sketches, calligraphy, or mixed-media artwork. They’re also <strong>portable and mess-free</strong>, ideal for on-the-go creativity.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question_nAQ3jP": {
+          "type": "question",
+          "settings": {
+            "title": "How do I choose the right pencil hardness for drawing?",
+            "text": "<p>Use <strong>H pencils</strong> for fine, light details and <strong>B pencils</strong> for darker, softer shading. A good sketching set usually includes <strong>2H to 8B</strong> to cover every drawing need — from rough outlines to rich tonal work.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question_DTk67U": {
+          "type": "question",
+          "settings": {
+            "title": "How can I preserve and protect my sketches?",
+            "text": "<p>Use <strong>fixative spray</strong> to prevent smudging and store your drawings in <strong>acid-free sketchbooks</strong> or <strong>portfolios</strong>. Avoid direct sunlight and handle pages carefully to keep your artwork looking clean and professional.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -296,7 +314,9 @@
       "block_order": [
         "question_YjMfBQ",
         "question_KUfAUB",
-        "question_xQG8be"
+        "question_xQG8be",
+        "question_nAQ3jP",
+        "question_DTk67U"
       ],
       "name": "t:sections.faq.presets.name",
       "settings": {
