@@ -242,8 +242,8 @@
         "question_YjMfBQ": {
           "type": "question",
           "settings": {
-            "title": "1. How do I choose the right art supplies for my skill level?",
-            "text": "<p>Start by considering your experience and project type. Beginners can focus on essentials like graphite pencils, sketch pads, and watercolor sets, while advanced artists may prefer professional-grade paints, brushes, and canvases. Always choose quality materials within your budget to get consistent results.</p>",
+            "title": "What are the essential art accessories every artist should have?",
+            "text": "<p>Every artist needs a few <strong>essential accessories</strong> to stay organized and efficient — like <strong>paint brushes</strong>, <strong>mixing palettes</strong>, <strong>palette knives</strong>, and <strong>sketchbooks</strong>. These tools help improve <strong>workflow</strong>, <strong>precision</strong>, and <strong>creativity</strong> during every project.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -251,8 +251,8 @@
         "question_KUfAUB": {
           "type": "question",
           "settings": {
-            "title": "What are the must-have art supplies for beginners?",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "title": "How do I choose the right paint brushes and tools?",
+            "text": "<p>Choose your <strong>paint brushes</strong> based on the <strong>medium</strong> you use. <strong>Synthetic brushes</strong> work best for acrylics, while <strong>natural bristles</strong> suit oil paints. For mixed media, a variety of <strong>flat, round, and angled brushes</strong> gives more flexibility.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -260,8 +260,26 @@
         "question_xQG8be": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "title": "What’s the best way to clean and care for art accessories?",
+            "text": "<p>Always <strong>wash brushes</strong> right after use with <strong>gentle soap</strong> and warm water. Wipe <strong>palette knives</strong> and <strong>palettes</strong> immediately to avoid hardened paint. Keep all accessories <strong>dry and upright</strong> to extend their lifespan.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question_7MdmQp": {
+          "type": "question",
+          "settings": {
+            "title": "Do art accessories affect the quality of my artwork?",
+            "text": "<p>Absolutely. <strong>High-quality accessories</strong> make a noticeable difference. A durable brush or smooth palette can help you <strong>control texture</strong>, <strong>blend colors better</strong>, and produce a <strong>cleaner final piece</strong>.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question_QfXQeT": {
+          "type": "question",
+          "settings": {
+            "title": "How should I organize my art accessories?",
+            "text": "<p>Use <strong>desk organizers</strong>, <strong>brush holders</strong>, or <strong>tool boxes</strong> to keep your workspace tidy. Having a well-structured area saves time, boosts <strong>focus</strong>, and keeps your <strong>creativity flowing</strong>.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -270,7 +288,9 @@
       "block_order": [
         "question_YjMfBQ",
         "question_KUfAUB",
-        "question_xQG8be"
+        "question_xQG8be",
+        "question_7MdmQp",
+        "question_QfXQeT"
       ],
       "name": "t:sections.faq.presets.name",
       "settings": {
