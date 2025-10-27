@@ -84,15 +84,6 @@
             "help_page": ""
           }
         },
-        "complementary": {
-          "type": "complementary",
-          "settings": {
-            "heading": "Pairs well with",
-            "product_limit": 3,
-            "show_vendor": false,
-            "show_price": true
-          }
-        },
         "text-1": {
           "type": "text",
           "settings": {
@@ -129,6 +120,15 @@
             "text_size": "text-sm"
           }
         },
+        "complementary": {
+          "type": "complementary",
+          "settings": {
+            "heading": "Pairs well with",
+            "product_limit": 3,
+            "show_vendor": false,
+            "show_price": true
+          }
+        },
         "sticky_buy_button": {
           "type": "sticky_buy_button",
           "settings": {}
@@ -142,11 +142,11 @@
         "product_bundle_r9NDV8",
         "buy_buttons",
         "share",
-        "complementary",
         "text-1",
         "text-2",
         "text-3",
         "text-4",
+        "complementary",
         "sticky_buy_button"
       ],
       "settings": {
