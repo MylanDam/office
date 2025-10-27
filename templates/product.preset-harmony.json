@@ -39,9 +39,9 @@
         "product_bundle_r9NDV8": {
           "type": "product_bundle",
           "settings": {
-            "icon": "none",
+            "icon": "box",
             "icon_width": 20,
-            "heading": "Popular upgrades",
+            "heading": "Get the full pack",
             "products": [
               "sketching-set",
               "✏️-portable-notebook-van-gogh-limited-edition",
@@ -74,6 +74,7 @@
         },
         "inventory": {
           "type": "inventory",
+          "disabled": true,
           "settings": {
             "inventory_threshold": 15,
             "show_inventory_transfer": true,
@@ -84,9 +85,9 @@
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
-            "show_quantity_selector": true,
+            "show_quantity_selector": false,
             "show_price": false,
-            "show_dynamic_checkout": true,
+            "show_dynamic_checkout": false,
             "show_gift_card_recipient": true,
             "enable_back_in_stock": false,
             "show_back_in_stock_name": false,
@@ -320,6 +321,7 @@
         "slide-3",
         "slide-4"
       ],
+      "disabled": true,
       "settings": {
         "transparent_header": false,
         "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
