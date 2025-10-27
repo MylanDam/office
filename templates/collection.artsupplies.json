@@ -282,7 +282,7 @@
       "name": "t:sections.faq.presets.name",
       "settings": {
         "style": "with-border",
-        "heading": "Choosing the Right Art Supplies",
+        "heading": "FAQs",
         "heading_size": "title-md",
         "heading_alignment": "text-left md:items-end md:flex-row",
         "heading_tag": "h2",
