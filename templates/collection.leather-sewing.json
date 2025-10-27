@@ -242,8 +242,8 @@
         "question_YjMfBQ": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "title": "What tools do I need to start leather crafting?",
+            "text": "<p>Beginners should start with <strong>leather sheets</strong>, <strong>cutting tools</strong>, and <strong>punching kits</strong>. These basics let you practice cutting, stitching, and shaping before moving on to advanced <strong>leatherwork projects</strong> like wallets, belts, or bags.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -251,8 +251,8 @@
         "question_KUfAUB": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "title": "What is the difference between sewing tools and textile tools?",
+            "text": "<p><strong>Sewing tools</strong> include <strong>needles</strong>, <strong>threads</strong>, and <strong>sewing kits</strong> used for stitching, while <strong>textile tools</strong> refer to accessories like <strong>fabric scissors</strong>, <strong>measuring tapes</strong>, and <strong>marking pens</strong>. Together, they help create precise, professional sewing results.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -260,8 +260,26 @@
         "question_xQG8be": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "title": "What kind of leather is best for crafting?",
+            "text": "<p>For beginners, <strong>vegetable-tanned leather</strong> is ideal because it’s <strong>durable</strong>, <strong>easy to cut</strong>, and can be <strong>stained or dyed</strong> easily. <strong>Genuine leather sheets</strong> and <strong>scraps</strong> are great for small DIY projects and testing new techniques.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question_rkJL7B": {
+          "type": "question",
+          "settings": {
+            "title": "How do I keep my sewing and leather tools in good condition?",
+            "text": "<p>Store <strong>cutting and punching tools</strong> in a <strong>dry, clean area</strong>. Keep <strong>blades sharp</strong>, oil your <strong>metal tools</strong> occasionally, and always <strong>wipe leather tools</strong> after use. Proper maintenance extends the life of your materials and ensures clean, accurate work.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question_7TtpYj": {
+          "type": "question",
+          "settings": {
+            "title": "Are sewing kits suitable for beginners?",
+            "text": "<p>Yes! <strong>Sewing kits</strong> are perfect for anyone starting out. They include <strong>all essential tools</strong> — needles, thread, fabric scissors, and more — to help you learn the basics of <strong>stitching</strong>, <strong>hemming</strong>, and <strong>repairing fabrics</strong> with ease.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -270,7 +288,9 @@
       "block_order": [
         "question_YjMfBQ",
         "question_KUfAUB",
-        "question_xQG8be"
+        "question_xQG8be",
+        "question_rkJL7B",
+        "question_7TtpYj"
       ],
       "name": "t:sections.faq.presets.name",
       "settings": {
