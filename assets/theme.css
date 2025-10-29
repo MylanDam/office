@@ -15650,4 +15650,5 @@ html.js .product__feed .drawer__header::before {
 }
 .rte:has(.stock-alert) {
   margin-top: 10px; 
+  margin-block-start: 10px;
 }
