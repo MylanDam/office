@@ -88,7 +88,7 @@
           "type": "text",
           "settings": {
             "icon": "truck",
-            "icon_width": 20,
+            "icon_width": 10,
             "text": "Ships within 24 hours",
             "text_size": "text-sm"
           }
