@@ -15670,7 +15670,7 @@ order: 3;
 }
 
 .product-bundle__info .horizontal-product__details{
-  flex: 1 1 calc(61% - 10px)
+  flex: 1 1 calc(61% - 10px);
   order: 1;
 }
 .product-bundle__info .horizontal-product__quantity{
