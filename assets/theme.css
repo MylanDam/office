@@ -15662,15 +15662,13 @@ html.js .product__feed .drawer__header::before {
   flex-wrap: wrap;
   gap: 10px;
 }
-.product-bundle__info .horizontal-product__media{
-flex: 1 1 calc(20% - 10px);
-}
+
 .product-bundle__info .horizontal-product__details{
-  flex: 1 1 calc(70% - 10px);
+  flex: 1 1 calc(62% - 10px)
 }
 .product-bundle__info .horizontal-product__quantity{
   flex: 1 1 100%;
-  padding-left: 32%;
+  padding-left: 80px;
 }
 }
 }
