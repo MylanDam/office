@@ -74,16 +74,6 @@
             "show_back_in_stock_phone": false
           }
         },
-        "share": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share",
-            "show_help_desk": true,
-            "help_label": "Need help?",
-            "help_type": "drawer",
-            "help_page": ""
-          }
-        },
         "liquid_zqddfD": {
           "type": "liquid",
           "settings": {
@@ -138,7 +128,6 @@
         "variant_picker",
         "product_bundle_r9NDV8",
         "buy_buttons",
-        "share",
         "liquid_zqddfD",
         "text-1",
         "text-2",
