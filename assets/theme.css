@@ -15645,3 +15645,6 @@ html.js .product__feed .drawer__header::before {
   height: 130px;
 }
 }
+.ms-auto{
+  margin-left: auto;
+}
