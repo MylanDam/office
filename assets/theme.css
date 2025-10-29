@@ -15648,3 +15648,6 @@ html.js .product__feed .drawer__header::before {
 .ms-auto{
   margin-left: auto;
 }
+.rte:has(.stock-alert) {
+  margin-top: 10px; 
+}
