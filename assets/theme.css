@@ -15663,7 +15663,7 @@ html.js .product__feed .drawer__header::before {
   gap: 10px;
 }
 .product__accordion .details__content{
-  padding: 5px;
+  padding: 5px !important;
 }
 .product-bundle__info .horizontal-product__media{
 order: 3;
