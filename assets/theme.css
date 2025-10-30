@@ -11906,7 +11906,7 @@ noscript .product-form__input {
 }
 
 .product-form-wrapper {
-  margin-block-start: var(--sp-4);
+  margin-block-start: var(--sp-2);
 }
 
 .quantity {
