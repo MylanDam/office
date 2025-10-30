@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main-product": {
@@ -6,6 +15,8 @@
         "vendor": {
           "type": "text",
           "settings": {
+            "icon": "none",
+            "icon_width": 20,
             "text": "{{ product.vendor }}",
             "text_size": "text-base"
           }
@@ -14,6 +25,7 @@
           "type": "title",
           "settings": {
             "title_size": "product-title-md",
+            "title_size_mobile": "product-title-md",
             "show_price": true,
             "show_rating": true
           }
@@ -30,6 +42,7 @@
             "show_variant_labels": true,
             "picker_type": "button",
             "enable_color_swatches": true,
+            "color_swatch_type": "color",
             "size_chart": ""
           }
         },
@@ -38,6 +51,7 @@
           "settings": {
             "inventory_threshold": 15,
             "show_inventory_transfer": true,
+            "show_inventory_quantity": "low",
             "color_scheme": "accent-1"
           }
         },
@@ -45,18 +59,18 @@
           "type": "buy_buttons",
           "settings": {
             "show_quantity_selector": true,
+            "show_price": false,
             "show_dynamic_checkout": true,
-            "show_gift_card_recipient": true
+            "show_gift_card_recipient": true,
+            "enable_back_in_stock": false,
+            "show_back_in_stock_name": false,
+            "show_back_in_stock_phone": false
           }
         },
-        "share": {
-          "type": "share",
+        "liquid_GK389H": {
+          "type": "liquid",
           "settings": {
-            "share_label": "Share",
-            "show_help_desk": true,
-            "help_label": "Need help?",
-            "help_type": "drawer",
-            "help_page": ""
+            "liquid": "<div class=\"stock-alert\">\n  <span class=\"dot\"></span>\n  <span class=\"stock-text\" id=\"variant-stock-msg\">Checking stock...</span>\n\n<div class=\"flex items-center gap-2 ms-auto\"><svg class=\"icon icon-question icon-md\" viewBox=\"0 0 22 22\" stroke=\"currentColor\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M9.167 9.625v-.458a1.833 1.833 0 1 1 3.666 0v.11a1.94 1.94 0 0 1-.57 1.376L11 11.917m.458 2.75a.458.458 0 0 1-.916 0m.916 0a.458.458 0 0 0-.916 0m.916 0h-.916M20.167 11a9.167 9.167 0 1 1-18.334 0 9.167 9.167 0 0 1 18.334 0Z\"></path>\n    </svg><a class=\"link text-sm leading-tight cursor-pointer mobile-iphone-pointevents\" role=\"link\" aria-disabled=\"true\" aria-controls=\"HelpDrawer\" aria-expanded=\"false\">Need help?</a>\n                  </div>\n</div>\n\n<style>\n  .stock-alert {\n    display: flex;\n    align-items: center;\n    gap: 8px;\n    margin: 0 0;\n    font-weight: 500;\n    color: #1a1a1a;\n    font-size: 14px;\n  }\n\n  .stock-alert .dot {\n    height: 10px;\n    width: 10px;\n    background-color: limegreen;\n    border-radius: 50%;\n    animation: pulse 1s infinite;\n    box-shadow: 0 0 5px limegreen;\n  }\n\n  @keyframes pulse {\n    0% { opacity: 1; }\n    50% { opacity: 0.2; }\n    100% { opacity: 1; }\n  }\n</style>\n\n<script>\n  document.addEventListener(\"DOMContentLoaded\", function () {\n    const stockMsg = document.getElementById(\"variant-stock-msg\");\n\n    function getStockForVariant(variantId) {\n      const storageKey = `gotcha-stock-${variantId}`;\n      const storedValue = localStorage.getItem(storageKey);\n\n      if (storedValue) return parseInt(storedValue);\n\n      const randomStock = Math.floor(Math.random() * 10) + 1;\n      localStorage.setItem(storageKey, randomStock);\n      return randomStock;\n    }\n\n    function getSelectedVariantId() {\n      const checkedInput = document.querySelector('input[name=\"id\"]:checked');\n      if (checkedInput) return checkedInput.value;\n\n      // Fallback for single-variant product\n      const formInput = document.querySelector('form[action*=\"/cart\"] input[name=\"id\"]');\n      if (formInput) return formInput.value;\n\n      return null;\n    }\n\n    function simulateStockMessage() {\n      const variantId = getSelectedVariantId();\n      if (!variantId) return;\n\n      stockMsg.textContent = \"Checking stock...\";\n\n      setTimeout(() => {\n        const fakeStock = getStockForVariant(variantId);\n        stockMsg.textContent = fakeStock === 1\n          ? \"In stock — ships within 24h\"\n          : `In stock — ships within 24h`;\n      }, 3000);\n    }\n\n    simulateStockMessage(); // On load\n\n    // On variant change (if present)\n    document.querySelectorAll('input[name=\"id\"]').forEach(input => {\n      input.addEventListener(\"change\", simulateStockMessage);\n    });\n  });\n\n</script>"
           }
         }
       },
@@ -67,99 +81,26 @@
         "variant_picker",
         "inventory",
         "buy_buttons",
-        "share"
+        "liquid_GK389H"
       ],
       "settings": {
         "enable_sticky_info": true,
         "media_size": 60,
         "gallery_layout": "thumbnail",
         "thumbnail_position": "beside",
+        "image_ratio": "adapt_first",
         "image_zoom": "lightbox",
         "hide_variants": false,
         "enable_video_autoplay": true,
         "enable_video_looping": true,
         "mobile_layout": "full_width",
+        "image_ratio_mobile": "adapt_first",
         "mobile_thumbnail": false,
         "padding_top": 24,
         "padding_bottom": 84,
         "divider": false,
         "full_width": true,
         "rounded": false
-      }
-    },
-    "help-drawer": {
-      "type": "help-drawer",
-      "blocks": {
-        "content-1": {
-          "type": "content",
-          "settings": {
-            "icon": "rocket",
-            "heading": "Shipping Information",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle",
-            "color_text": "#b45309",
-            "color_background": "#fffbeb",
-            "gradient_background": "",
-            "color_highlight": "#ffddbf",
-            "gradient_highlight": ""
-          }
-        },
-        "content-2": {
-          "type": "content",
-          "settings": {
-            "icon": "headphone",
-            "heading": "Customer Support",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle",
-            "color_text": "#0369a1",
-            "color_background": "#f0f9ff",
-            "gradient_background": "",
-            "color_highlight": "#ffddbf",
-            "gradient_highlight": ""
-          }
-        },
-        "content-3": {
-          "type": "content",
-          "settings": {
-            "icon": "chat_bubble",
-            "heading": "FAQ’s",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle",
-            "color_text": "#be123c",
-            "color_background": "#fff1f2",
-            "gradient_background": "",
-            "color_highlight": "#ffddbf",
-            "gradient_highlight": ""
-          }
-        },
-        "content-4": {
-          "type": "content",
-          "settings": {
-            "icon": "phone",
-            "heading": "Contact Us",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle",
-            "color_text": "#4d7c0f",
-            "color_background": "#f7fee7",
-            "gradient_background": "",
-            "color_highlight": "#ffddbf",
-            "gradient_highlight": ""
-          }
-        }
-      },
-      "block_order": [
-        "content-1",
-        "content-2",
-        "content-3",
-        "content-4"
-      ],
-      "settings": {
-        "heading": "Need help?",
-        "description": "<p>If you have any questions, you are always welcome to contact us. We'll get back to you as soon as possible, within 24 hours on weekdays.</p>"
       }
     },
     "product-recommendations": {
@@ -228,7 +169,6 @@
   },
   "order": [
     "main-product",
-    "help-drawer",
     "product-recommendations",
     "recently-viewed"
   ]
