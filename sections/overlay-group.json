@@ -69,35 +69,17 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Sign up and get <em>20% off</em> your first order",
+            "heading": "Get <em>20% off</em> your first order at checkout",
             "heading_size": "text-2xl lg:text-3xl",
             "heading_tag": "h2",
             "highlighted_text": "scribble",
             "highlighted_scribble": "basic-underline"
           }
         },
-        "spacing": {
-          "type": "spacing",
-          "settings": {
-            "height": 32,
-            "height_mobile": 12
-          }
-        },
         "form": {
           "type": "form",
+          "disabled": true,
           "settings": {}
-        },
-        "text-2": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Subscribe to our newsletter and be the first to hear about our new arrivals, special promotions and online exclusives.</p>",
-            "text_size": "text-sm",
-            "text_max_size": 32,
-            "text_font": "body",
-            "secondary_color": true,
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
         },
         "media": {
           "type": "media",
@@ -120,9 +102,7 @@
       "block_order": [
         "text-1",
         "heading",
-        "spacing",
         "form",
-        "text-2",
         "media",
         "floating"
       ],
