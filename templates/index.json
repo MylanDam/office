@@ -16,7 +16,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/pexels-pavel-danilyuk-8001029.jpg",
-            "image_mobile": "shopify://shop_images/Illustration_sans_titre_1.jpg",
+            "image_mobile": "shopify://shop_images/peinture-art.webp",
             "heading": "Craft. Create. Inspire.",
             "heading_size": "title-md",
             "heading_tag": "h2",
@@ -194,6 +194,7 @@
         "enable_video_autoplay": true,
         "enable_video_looping": true,
         "image_height": "adapt",
+        "video_url_mobile": "",
         "image_height_mobile": "auto",
         "padding_top": 0,
         "padding_bottom": 0,
