@@ -183,6 +183,25 @@
         "rounded": false
       }
     },
+    "video_V7TEne": {
+      "type": "video",
+      "name": "t:sections.video.presets.name",
+      "settings": {
+        "transparent_header": true,
+        "video": "shopify://files/videos/Sac en toile brun grainé.mov",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "description": "painting",
+        "enable_video_autoplay": true,
+        "enable_video_looping": true,
+        "image_height": "adapt",
+        "image_height_mobile": "auto",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "divider": false,
+        "full_width": true,
+        "rounded": true
+      }
+    },
     "faq_dXGFcc": {
       "type": "faq",
       "blocks": {
@@ -298,6 +317,7 @@
     "slideshow",
     "rich-text-1",
     "collection_list_3VQxVT",
+    "video_V7TEne",
     "faq_dXGFcc"
   ]
 }
