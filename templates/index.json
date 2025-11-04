@@ -202,6 +202,79 @@
         "rounded": true
       }
     },
+    "featured_collections_F9TeV3": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_kKfKAw": {
+          "type": "collection",
+          "settings": {
+            "collection": "painting-colors",
+            "products": [],
+            "title": ""
+          }
+        },
+        "collection_npifPw": {
+          "type": "collection",
+          "settings": {
+            "collection": "drawing-sketching",
+            "products": [],
+            "title": ""
+          }
+        },
+        "collection_4yzUNp": {
+          "type": "collection",
+          "settings": {
+            "collection": "handcraft-modeling",
+            "products": [],
+            "title": ""
+          }
+        },
+        "collection_BMrgDY": {
+          "type": "collection",
+          "settings": {
+            "collection": "paper-pen",
+            "products": [],
+            "title": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_kKfKAw",
+        "collection_npifPw",
+        "collection_4yzUNp",
+        "collection_BMrgDY"
+      ],
+      "name": "t:sections.featured-collections.presets.name",
+      "settings": {
+        "product_limit": 6,
+        "columns": 4,
+        "carousel_on_desktop": true,
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "heading": "",
+        "heading_size": "title-md",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 28,
+        "padding_bottom": 48,
+        "divider": false,
+        "full_width": false,
+        "rounded": false
+      }
+    },
     "faq_dXGFcc": {
       "type": "faq",
       "blocks": {
@@ -318,6 +391,7 @@
     "rich-text-1",
     "collection_list_3VQxVT",
     "video_V7TEne",
+    "featured_collections_F9TeV3",
     "faq_dXGFcc"
   ]
 }
