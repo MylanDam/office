@@ -30,7 +30,7 @@
         "liquid_qr6ngm": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div class=\"pp-feature-bubble\">\n  <ul>\n    <li>Full graphite range: 2H–14B</li>\n    <li>Smooth, blendable texture</li>\n    <li>Easy to sharpen, long-lasting</li>\n    <li>Great for sketching, shading & fine art</li>\n  </ul>\n</div>\n\n<style>\n  .pp-feature-bubble {\n    background: #F2F2F2;        /* gris clair */\n    border-radius: 12px;        /* arrondi bulles */\n    padding: 16px 18px;         /* espace intérieur ajusté */\n    margin: 20px 0;             /* garde une marge propre autour */\n    width: 100%;                /* occupe toute la largeur dispo */\n    max-width: 100%;            \n    box-sizing: border-box;\n    display: inline-block;      /* force la bulle autour du contenu */\n  }\n  .pp-feature-bubble ul {\n    list-style: none;\n    padding: 0;\n    margin: 0;\n  }\n  .pp-feature-bubble li {\n    font-size: 15px;            \n    line-height: 1.4;           \n    margin-bottom: 8px;         \n    display: flex;\n    align-items: flex-start;\n  }\n  .pp-feature-bubble li:last-child {\n    margin-bottom: 0;           \n  }\n  .pp-feature-bubble li::before {\n    content: \"✓\";\n    color: #00B862;\n    font-weight: 600;\n    margin-right: 8px;\n    flex-shrink: 0;\n  }\n</style>"
+            "liquid": "<div class=\"pp-feature-bubble\">\n  <ul>\n    <li>9 unique scraper shapes for texture & detail</li>\n    <li>Works with oil, acrylic, and gouache</li>\n    <li>Rust-resistant stainless steel blades</li>\n    <li>Lightweight, flexible, and easy to clean</li>\n  </ul>\n</div>\n\n<style>\n  .pp-feature-bubble {\n    background: #F2F2F2;        /* gris clair */\n    border-radius: 12px;        /* arrondi bulles */\n    padding: 16px 18px;         /* espace intérieur ajusté */\n    margin: 20px 0;             /* garde une marge propre autour */\n    width: 100%;                /* occupe toute la largeur dispo */\n    max-width: 100%;            \n    box-sizing: border-box;\n    display: inline-block;      /* force la bulle autour du contenu */\n  }\n  .pp-feature-bubble ul {\n    list-style: none;\n    padding: 0;\n    margin: 0;\n  }\n  .pp-feature-bubble li {\n    font-size: 15px;            \n    line-height: 1.4;           \n    margin-bottom: 8px;         \n    display: flex;\n    align-items: flex-start;\n  }\n  .pp-feature-bubble li:last-child {\n    margin-bottom: 0;           \n  }\n  .pp-feature-bubble li::before {\n    content: \"✓\";\n    color: #00B862;\n    font-weight: 600;\n    margin-right: 8px;\n    flex-shrink: 0;\n  }\n</style>"
           }
         },
         "countdown": {
@@ -89,8 +89,8 @@
           "settings": {
             "style": "with-border",
             "icon": "none",
-            "heading": "What grades are included?",
-            "content": "<p>The set ranges from <strong>2H to 14B</strong>, offering both hard and soft leads.</p>",
+            "heading": "What are these knives used for?",
+            "content": "<p>They’re perfect for <strong>mixing paint</strong> or applying textured layers in oil and acrylic artworks.</p>",
             "page": "",
             "liquid": "",
             "opened": false
@@ -101,8 +101,8 @@
           "settings": {
             "style": "with-border",
             "icon": "none",
-            "heading": "Are these suitable for beginners?",
-            "content": "<p>Yes — perfect for students, hobbyists, and professionals.</p>",
+            "heading": "Are they made of metal or plastic?",
+            "content": "<p>Each knife features a <strong>stainless steel blade</strong> with a durable wooden handle.</p>",
             "page": "",
             "liquid": "",
             "opened": false
@@ -113,8 +113,8 @@
           "settings": {
             "style": "with-border",
             "icon": "none",
-            "heading": "What’s the difference between H and B pencils?",
-            "content": "<p>H = harder/lighter lines; B = softer/darker tones for shading.</p>",
+            "heading": "Can beginners use them?",
+            "content": "<p>Yes — the variety of shapes helps beginners <strong>learn texture control</strong> easily.</p>",
             "page": "",
             "liquid": "",
             "opened": false
@@ -173,8 +173,8 @@
         "question_DeJxXz": {
           "type": "question",
           "settings": {
-            "title": "Do they smudge easily?",
-            "text": "<p>Minimal smudge — use a fixative for a clean finish.</p>",
+            "title": "How do I clean them?",
+            "text": "<p>Wipe off paint immediately with a cloth or rinse with warm soapy water.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -182,8 +182,8 @@
         "question_8xFJjR": {
           "type": "question",
           "settings": {
-            "title": "Can I use them for portraits?",
-            "text": "<p>Absolutely. The <strong>full tonal range</strong> makes them ideal for faces and fine art.</p>",
+            "title": "Do they bend or break easily?",
+            "text": "<p>No — they’re <strong>flexible but sturdy</strong>, designed for long-term studio use.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -191,8 +191,8 @@
         "question_BBNh9W": {
           "type": "question",
           "settings": {
-            "title": "What material is used?",
-            "text": "<p>Premium <strong>wooden body with smooth graphite cores</strong> for durability and comfort.</p>",
+            "title": "Can I use them for gouache or texture paste?",
+            "text": "<p>Absolutely — suitable for <strong>gouache, gels, modeling pastes, and acrylic mediums.</strong></p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
