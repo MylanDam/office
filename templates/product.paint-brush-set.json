@@ -30,7 +30,7 @@
         "liquid_qr6ngm": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div class=\"pp-feature-bubble\">\n  <ul>\n    <li>Smooth, blendable graphite texture</li>\n    <li>Woodless design — 100% usable core</li>\n    <li>Perfect for sketching, shading & blending</li>\n    <li>Non-toxic, smooth & artist-approved</li>\n  </ul>\n</div>\n\n<style>\n  .pp-feature-bubble {\n    background: #F2F2F2;        /* gris clair */\n    border-radius: 12px;        /* arrondi bulles */\n    padding: 16px 18px;         /* espace intérieur ajusté */\n    margin: 20px 0;             /* garde une marge propre autour */\n    width: 100%;                /* occupe toute la largeur dispo */\n    max-width: 100%;            \n    box-sizing: border-box;\n    display: inline-block;      /* force la bulle autour du contenu */\n  }\n  .pp-feature-bubble ul {\n    list-style: none;\n    padding: 0;\n    margin: 0;\n  }\n  .pp-feature-bubble li {\n    font-size: 15px;            \n    line-height: 1.4;           \n    margin-bottom: 8px;         \n    display: flex;\n    align-items: flex-start;\n  }\n  .pp-feature-bubble li:last-child {\n    margin-bottom: 0;           \n  }\n  .pp-feature-bubble li::before {\n    content: \"✓\";\n    color: #00B862;\n    font-weight: 600;\n    margin-right: 8px;\n    flex-shrink: 0;\n  }\n</style>"
+            "liquid": "<div class=\"pp-feature-bubble\">\n  <ul>\n    <li>25 brushes: round, flat, filbert, angle, fan, detail</li>\n    <li>No-shedding synthetic nylon bristles</li>\n    <li>Works with acrylic, oil, watercolor, gouache</li>\n    <li>Easy clean-up, shape retention, durable ferrules</li>\n  </ul>\n</div>\n\n<style>\n  .pp-feature-bubble {\n    background: #F2F2F2;        /* gris clair */\n    border-radius: 12px;        /* arrondi bulles */\n    padding: 16px 18px;         /* espace intérieur ajusté */\n    margin: 20px 0;             /* garde une marge propre autour */\n    width: 100%;                /* occupe toute la largeur dispo */\n    max-width: 100%;            \n    box-sizing: border-box;\n    display: inline-block;      /* force la bulle autour du contenu */\n  }\n  .pp-feature-bubble ul {\n    list-style: none;\n    padding: 0;\n    margin: 0;\n  }\n  .pp-feature-bubble li {\n    font-size: 15px;            \n    line-height: 1.4;           \n    margin-bottom: 8px;         \n    display: flex;\n    align-items: flex-start;\n  }\n  .pp-feature-bubble li:last-child {\n    margin-bottom: 0;           \n  }\n  .pp-feature-bubble li::before {\n    content: \"✓\";\n    color: #00B862;\n    font-weight: 600;\n    margin-right: 8px;\n    flex-shrink: 0;\n  }\n</style>"
           }
         },
         "countdown": {
@@ -89,8 +89,8 @@
           "settings": {
             "style": "with-border",
             "icon": "none",
-            "heading": "What grades are available?",
-            "content": "<p>HB, 2B, 4B, and 6B for different tones and textures.</p>",
+            "heading": "What mediums are these brushes for?",
+            "content": "<p>Acrylic, oil, watercolor, and gouache.</p>",
             "page": "",
             "liquid": "",
             "opened": false
@@ -101,8 +101,8 @@
           "settings": {
             "style": "with-border",
             "icon": "none",
-            "heading": "Are these sticks woodless?",
-            "content": "<p>Yes — they’re made entirely of compressed graphite.</p>",
+            "heading": "Do the bristles shed?",
+            "content": "<p>No—<strong>crimped ferrules</strong> secure the nylon fibers to prevent shedding.</p>",
             "page": "",
             "liquid": "",
             "opened": false
@@ -113,8 +113,8 @@
           "settings": {
             "style": "with-border",
             "icon": "none",
-            "heading": "Can beginners use them?",
-            "content": "<p>Absolutely — easy to handle and blend.</p>",
+            "heading": "How do I clean them?",
+            "content": "<p>Water & mild soap for water-based paints; appropriate solvent for oils, then rinse and reshape.</p>",
             "page": "",
             "liquid": "",
             "opened": false
@@ -173,8 +173,8 @@
         "question_DeJxXz": {
           "type": "question",
           "settings": {
-            "title": "Do they work on all paper types?",
-            "text": "<p>Yes, ideal for <strong>sketchbooks, textured, and smooth paper</strong>.</p>",
+            "title": "Are there fine detail brushes?",
+            "text": "<p>Yes—multiple <strong>liner and spot detail</strong> sizes included.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -182,8 +182,8 @@
         "question_8xFJjR": {
           "type": "question",
           "settings": {
-            "title": "Are they messy to use?",
-            "text": "<p>Minimal dust; simply use a fixative to seal finished art.</p>",
+            "title": "Will they keep their shape?",
+            "text": "<p>Yes—<strong>springy nylon</strong> with good snap and tip retention.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -191,8 +191,8 @@
         "question_BBNh9W": {
           "type": "question",
           "settings": {
-            "title": "How do I sharpen them?",
-            "text": "<p>Use sandpaper, a blade, or shaping tools for custom precision.</p><p></p>",
+            "title": "Is this good for beginners?",
+            "text": "<p>Absolutely—full range of shapes/sizes makes it a <strong>starter-to-pro</strong> kit.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
