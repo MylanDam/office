@@ -173,8 +173,8 @@
         "question_DeJxXz": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "title": "Are these markers alcohol-based or water-based?",
+            "text": "<p>They are water-based acrylic markers — safe, low-odor, and easy to blend while drying quickly on most surfaces.</p><p></p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -182,8 +182,8 @@
         "question_8xFJjR": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "title": "What surfaces can I use them on?",
+            "text": "<p>They work perfectly on paper, canvas, wood, fabric, glass, stone, plastic, and more.</p><p></p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -191,8 +191,8 @@
         "question_BBNh9W": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "title": "Do the colors bleed or fade over time?",
+            "text": "<p>No — the ink is quick-drying and fade-resistant, keeping your artwork vibrant and clean.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
