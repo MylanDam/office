@@ -30,7 +30,7 @@
         "liquid_qr6ngm": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div class=\"pp-feature-bubble\">\n  <ul>\n    <li>Dual-tip design for fine details & bold coloring</li>\n    <li>168 vivid, quick-drying shades</li>\n    <li>Smooth ink flow with lasting vibrancy</li>\n    <li>Comes with a handy carrying case</li>\n  </ul>\n</div>\n\n<style>\n  .pp-feature-bubble {\n    background: #F2F2F2;        /* gris clair */\n    border-radius: 12px;        /* arrondi bulles */\n    padding: 16px 18px;         /* espace intérieur ajusté */\n    margin: 20px 0;             /* garde une marge propre autour */\n    width: 100%;                /* occupe toute la largeur dispo */\n    max-width: 100%;            \n    box-sizing: border-box;\n    display: inline-block;      /* force la bulle autour du contenu */\n  }\n  .pp-feature-bubble ul {\n    list-style: none;\n    padding: 0;\n    margin: 0;\n  }\n  .pp-feature-bubble li {\n    font-size: 15px;            \n    line-height: 1.4;           \n    margin-bottom: 8px;         \n    display: flex;\n    align-items: flex-start;\n  }\n  .pp-feature-bubble li:last-child {\n    margin-bottom: 0;           \n  }\n  .pp-feature-bubble li::before {\n    content: \"✓\";\n    color: #00B862;\n    font-weight: 600;\n    margin-right: 8px;\n    flex-shrink: 0;\n  }\n</style>"
+            "liquid": "<div class=\"pp-feature-bubble\">\n  <ul>\n    <li>36 water-soluble, artist-grade oil pastels</li>\n    <li>Smooth, blendable texture for vivid color layers</li>\n    <li>Safe, non-toxic, and long-lasting</li>\n    <li>Ideal for paper, canvas, and mixed media</li>\n  </ul>\n</div>\n\n<style>\n  .pp-feature-bubble {\n    background: #F2F2F2;        /* gris clair */\n    border-radius: 12px;        /* arrondi bulles */\n    padding: 16px 18px;         /* espace intérieur ajusté */\n    margin: 20px 0;             /* garde une marge propre autour */\n    width: 100%;                /* occupe toute la largeur dispo */\n    max-width: 100%;            \n    box-sizing: border-box;\n    display: inline-block;      /* force la bulle autour du contenu */\n  }\n  .pp-feature-bubble ul {\n    list-style: none;\n    padding: 0;\n    margin: 0;\n  }\n  .pp-feature-bubble li {\n    font-size: 15px;            \n    line-height: 1.4;           \n    margin-bottom: 8px;         \n    display: flex;\n    align-items: flex-start;\n  }\n  .pp-feature-bubble li:last-child {\n    margin-bottom: 0;           \n  }\n  .pp-feature-bubble li::before {\n    content: \"✓\";\n    color: #00B862;\n    font-weight: 600;\n    margin-right: 8px;\n    flex-shrink: 0;\n  }\n</style>"
           }
         },
         "countdown": {
@@ -89,8 +89,8 @@
           "settings": {
             "style": "with-border",
             "icon": "none",
-            "heading": "Can beginners use this set?",
-            "content": "<p>Absolutely! It’s ideal for beginners, students, and professional artists alike.</p>",
+            "heading": "Are these oil pastels water-soluble?",
+            "content": "<p>Yes, they blend easily with water for watercolor effects.</p><p></p>",
             "page": "",
             "liquid": "",
             "opened": false
@@ -101,8 +101,8 @@
           "settings": {
             "style": "with-border",
             "icon": "none",
-            "heading": "How should I store the markers?",
-            "content": "<p>Keep them capped tightly after each use and store horizontally in the included carrying case to maintain even ink flow.</p>",
+            "heading": "Are they safe for kids?",
+            "content": "<p>Yes, they’re non-toxic and odor-free.</p><p></p>",
             "page": "",
             "liquid": "",
             "opened": false
@@ -113,8 +113,8 @@
           "settings": {
             "style": "with-border",
             "icon": "none",
-            "heading": "How long do the markers last?",
-            "content": "<p>Each marker is filled with high-capacity ink that lasts for dozens of projects. With proper storage and capped tips, they can stay fresh for months.</p>",
+            "heading": "Do they fade over time?",
+            "content": "<p>No, they’re made with fade-resistant pigments.</p>",
             "page": "",
             "liquid": "",
             "opened": false
@@ -173,8 +173,8 @@
         "question_DeJxXz": {
           "type": "question",
           "settings": {
-            "title": "Are these markers alcohol-based or water-based?",
-            "text": "<p>They are water-based acrylic markers — safe, low-odor, and easy to blend while drying quickly on most surfaces.</p><p></p>",
+            "title": "Can beginners use them?",
+            "text": "<p>Absolutely — perfect for students and hobbyists.</p><p></p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -183,7 +183,7 @@
           "type": "question",
           "settings": {
             "title": "What surfaces can I use them on?",
-            "text": "<p>They work perfectly on paper, canvas, wood, fabric, glass, stone, plastic, and more.</p><p></p>",
+            "text": "<p>Ideal for paper, canvas, wood, and pastel boards.</p><p></p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -191,8 +191,8 @@
         "question_BBNh9W": {
           "type": "question",
           "settings": {
-            "title": "Do the colors bleed or fade over time?",
-            "text": "<p>No — the ink is quick-drying and fade-resistant, keeping your artwork vibrant and clean.</p>",
+            "title": "How should I store them?",
+            "text": "<p>Keep them in a cool, dry place away from direct sunlight.</p><p></p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
