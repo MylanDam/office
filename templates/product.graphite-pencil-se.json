@@ -30,7 +30,7 @@
         "liquid_qr6ngm": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div class=\"pp-feature-bubble\">\n  <ul>\n    <li>24 creamy, opaque gouache colors</li>\n    <li>SJelly cup design for easy access & freshness</li>\n    <li>Includes portable case with brush tray</li>\n    <li>Non-toxic, smooth & artist-approved</li>\n  </ul>\n</div>\n\n<style>\n  .pp-feature-bubble {\n    background: #F2F2F2;        /* gris clair */\n    border-radius: 12px;        /* arrondi bulles */\n    padding: 16px 18px;         /* espace intérieur ajusté */\n    margin: 20px 0;             /* garde une marge propre autour */\n    width: 100%;                /* occupe toute la largeur dispo */\n    max-width: 100%;            \n    box-sizing: border-box;\n    display: inline-block;      /* force la bulle autour du contenu */\n  }\n  .pp-feature-bubble ul {\n    list-style: none;\n    padding: 0;\n    margin: 0;\n  }\n  .pp-feature-bubble li {\n    font-size: 15px;            \n    line-height: 1.4;           \n    margin-bottom: 8px;         \n    display: flex;\n    align-items: flex-start;\n  }\n  .pp-feature-bubble li:last-child {\n    margin-bottom: 0;           \n  }\n  .pp-feature-bubble li::before {\n    content: \"✓\";\n    color: #00B862;\n    font-weight: 600;\n    margin-right: 8px;\n    flex-shrink: 0;\n  }\n</style>"
+            "liquid": "<div class=\"pp-feature-bubble\">\n  <ul>\n    <li>Full graphite range: 2H–14B</li>\n    <li>Smooth, blendable texture</li>\n    <li>Easy to sharpen, long-lasting</li>\n    <li>Great for sketching, shading & fine art</li>\n  </ul>\n</div>\n\n<style>\n  .pp-feature-bubble {\n    background: #F2F2F2;        /* gris clair */\n    border-radius: 12px;        /* arrondi bulles */\n    padding: 16px 18px;         /* espace intérieur ajusté */\n    margin: 20px 0;             /* garde une marge propre autour */\n    width: 100%;                /* occupe toute la largeur dispo */\n    max-width: 100%;            \n    box-sizing: border-box;\n    display: inline-block;      /* force la bulle autour du contenu */\n  }\n  .pp-feature-bubble ul {\n    list-style: none;\n    padding: 0;\n    margin: 0;\n  }\n  .pp-feature-bubble li {\n    font-size: 15px;            \n    line-height: 1.4;           \n    margin-bottom: 8px;         \n    display: flex;\n    align-items: flex-start;\n  }\n  .pp-feature-bubble li:last-child {\n    margin-bottom: 0;           \n  }\n  .pp-feature-bubble li::before {\n    content: \"✓\";\n    color: #00B862;\n    font-weight: 600;\n    margin-right: 8px;\n    flex-shrink: 0;\n  }\n</style>"
           }
         },
         "countdown": {
@@ -89,8 +89,8 @@
           "settings": {
             "style": "with-border",
             "icon": "none",
-            "heading": "How many colors come in the set?",
-            "content": "<p>This set includes <strong>24 rich, vibrant gouache colors</strong> in jelly cups.</p><p></p>",
+            "heading": "What grades are included?",
+            "content": "<p>The set ranges from <strong>2H to 14B</strong>, offering both hard and soft leads.</p>",
             "page": "",
             "liquid": "",
             "opened": false
@@ -101,8 +101,8 @@
           "settings": {
             "style": "with-border",
             "icon": "none",
-            "heading": "Are the paints non-toxic?",
-            "content": "<p>Yes, they’re <strong>eco-friendly, odor-free, and safe</strong> for all ages.</p><p></p><p></p>",
+            "heading": "Are these suitable for beginners?",
+            "content": "<p>Yes — perfect for students, hobbyists, and professionals.</p>",
             "page": "",
             "liquid": "",
             "opened": false
@@ -113,8 +113,8 @@
           "settings": {
             "style": "with-border",
             "icon": "none",
-            "heading": "What surfaces can I paint on?",
-            "content": "<p>Perfect for <strong>paper, canvas, cardboard, rock, and craft projects</strong>.</p><p></p>",
+            "heading": "What’s the difference between H and B pencils?",
+            "content": "<p>H = harder/lighter lines; B = softer/darker tones for shading.</p>",
             "page": "",
             "liquid": "",
             "opened": false
@@ -173,8 +173,8 @@
         "question_DeJxXz": {
           "type": "question",
           "settings": {
-            "title": "Do the paints dry out quickly?",
-            "text": "<p>No — the <strong>airtight jelly cups</strong> keep pigments creamy and long-lasting.</p><p></p>",
+            "title": "Do they smudge easily?",
+            "text": "<p>Minimal smudge — use a fixative for a clean finish.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -182,8 +182,8 @@
         "question_8xFJjR": {
           "type": "question",
           "settings": {
-            "title": "Can beginners use this set?",
-            "text": "<p>Absolutely! It’s <strong>beginner-friendly</strong> and easy to blend and control.</p><p></p><p></p>",
+            "title": "Can I use them for portraits?",
+            "text": "<p>Absolutely. The <strong>full tonal range</strong> makes them ideal for faces and fine art.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -191,8 +191,8 @@
         "question_BBNh9W": {
           "type": "question",
           "settings": {
-            "title": "Is it easy to carry around?",
-            "text": "<p>Yes, the <strong>compact portable case</strong> with brush tray makes it ideal for travel and outdoor painting.</p><p></p>",
+            "title": "What material is used?",
+            "text": "<p>Premium <strong>wooden body with smooth graphite cores</strong> for durability and comfort.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
