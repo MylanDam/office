@@ -30,7 +30,7 @@
         "liquid_qr6ngm": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div class=\"pp-feature-bubble\">\n  <ul>\n    <li>Smooth, blendable graphite texture</li>\n    <li>Woodless design — 100% usable core</li>\n    <li>Perfect for sketching, shading & blending</li>\n    <li>Non-toxic, smooth & artist-approved</li>\n  </ul>\n</div>\n\n<style>\n  .pp-feature-bubble {\n    background: #F2F2F2;        /* gris clair */\n    border-radius: 12px;        /* arrondi bulles */\n    padding: 16px 18px;         /* espace intérieur ajusté */\n    margin: 20px 0;             /* garde une marge propre autour */\n    width: 100%;                /* occupe toute la largeur dispo */\n    max-width: 100%;            \n    box-sizing: border-box;\n    display: inline-block;      /* force la bulle autour du contenu */\n  }\n  .pp-feature-bubble ul {\n    list-style: none;\n    padding: 0;\n    margin: 0;\n  }\n  .pp-feature-bubble li {\n    font-size: 15px;            \n    line-height: 1.4;           \n    margin-bottom: 8px;         \n    display: flex;\n    align-items: flex-start;\n  }\n  .pp-feature-bubble li:last-child {\n    margin-bottom: 0;           \n  }\n  .pp-feature-bubble li::before {\n    content: \"✓\";\n    color: #00B862;\n    font-weight: 600;\n    margin-right: 8px;\n    flex-shrink: 0;\n  }\n</style>"
+            "liquid": "<div class=\"pp-feature-bubble\">\n  <ul>\n    <li>Smooth wood surface</li>\n    <li>Lightweight & ergonomic</li>\n    <li>Great for acrylic, oil, watercolor</li>\n    <li>Easy to clean & long-lasting</li>\n  </ul>\n</div>\n\n<style>\n  .pp-feature-bubble {\n    background: #F2F2F2;        /* gris clair */\n    border-radius: 12px;        /* arrondi bulles */\n    padding: 16px 18px;         /* espace intérieur ajusté */\n    margin: 20px 0;             /* garde une marge propre autour */\n    width: 100%;                /* occupe toute la largeur dispo */\n    max-width: 100%;            \n    box-sizing: border-box;\n    display: inline-block;      /* force la bulle autour du contenu */\n  }\n  .pp-feature-bubble ul {\n    list-style: none;\n    padding: 0;\n    margin: 0;\n  }\n  .pp-feature-bubble li {\n    font-size: 15px;            \n    line-height: 1.4;           \n    margin-bottom: 8px;         \n    display: flex;\n    align-items: flex-start;\n  }\n  .pp-feature-bubble li:last-child {\n    margin-bottom: 0;           \n  }\n  .pp-feature-bubble li::before {\n    content: \"✓\";\n    color: #00B862;\n    font-weight: 600;\n    margin-right: 8px;\n    flex-shrink: 0;\n  }\n</style>"
           }
         },
         "countdown": {
@@ -89,8 +89,8 @@
           "settings": {
             "style": "with-border",
             "icon": "none",
-            "heading": "What grades are available?",
-            "content": "<p>HB, 2B, 4B, and 6B for different tones and textures.</p>",
+            "heading": "What materials can I use?",
+            "content": "<p>Compatible with acrylic, oil, watercolor, and gouache paints.</p>",
             "page": "",
             "liquid": "",
             "opened": false
@@ -101,8 +101,8 @@
           "settings": {
             "style": "with-border",
             "icon": "none",
-            "heading": "Are these sticks woodless?",
-            "content": "<p>Yes — they’re made entirely of compressed graphite.</p>",
+            "heading": "Is it easy to hold?",
+            "content": "<p>Yes — designed with a <strong>thumb hole</strong> for comfort during long painting sessions.</p>",
             "page": "",
             "liquid": "",
             "opened": false
@@ -113,8 +113,8 @@
           "settings": {
             "style": "with-border",
             "icon": "none",
-            "heading": "Can beginners use them?",
-            "content": "<p>Absolutely — easy to handle and blend.</p>",
+            "heading": "How do I clean it?",
+            "content": "<p>Wipe clean with a damp cloth or mild solvent for oils.</p>",
             "page": "",
             "liquid": "",
             "opened": false
@@ -173,8 +173,8 @@
         "question_DeJxXz": {
           "type": "question",
           "settings": {
-            "title": "Do they work on all paper types?",
-            "text": "<p>Yes, ideal for <strong>sketchbooks, textured, and smooth paper</strong>.</p>",
+            "title": "Does paint stain the surface?",
+            "text": "<p>Slight staining may occur, but it doesn’t affect mixing quality.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -182,8 +182,8 @@
         "question_8xFJjR": {
           "type": "question",
           "settings": {
-            "title": "Are they messy to use?",
-            "text": "<p>Minimal dust; simply use a fixative to seal finished art.</p>",
+            "title": "Is it heavy?",
+            "text": "<p>No — the <strong>lightweight wood</strong> makes it ideal for mobile or studio work.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -191,8 +191,8 @@
         "question_BBNh9W": {
           "type": "question",
           "settings": {
-            "title": "How do I sharpen them?",
-            "text": "<p>Use sandpaper, a blade, or shaping tools for custom precision.</p><p></p>",
+            "title": "Who is it best for?",
+            "text": "<p>Perfect for artists, students, or anyone learning to <strong>mix and control color</strong> efficiently.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
