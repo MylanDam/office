@@ -1,0 +1,353 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main-product": {
+      "type": "main-product",
+      "blocks": {
+        "liquid_iecMDy": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"\n  display: flex;\n  align-items: center;\n  white-space: nowrap;\n  overflow: hidden;\n  font-size: 1em;\n  min-width: 0;\n  margin-bottom: -10px;\n\">\n  <!-- Stars -->\n  <span style=\"display: flex;\">\n    <svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"#FFD600\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"10,2 12.59,7.37 18.51,8.08 14,12.25 15.18,18.09 10,15.1 4.82,18.09 6,12.25 1.49,8.08 7.41,7.37\"/></svg>\n    <svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"#FFD600\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"10,2 12.59,7.37 18.51,8.08 14,12.25 15.18,18.09 10,15.1 4.82,18.09 6,12.25 1.49,8.08 7.41,7.37\"/></svg>\n    <svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"#FFD600\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"10,2 12.59,7.37 18.51,8.08 14,12.25 15.18,18.09 10,15.1 4.82,18.09 6,12.25 1.49,8.08 7.41,7.37\"/></svg>\n    <svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"#FFD600\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"10,2 12.59,7.37 18.51,8.08 14,12.25 15.18,18.09 10,15.1 4.82,18.09 6,12.25 1.49,8.08 7.41,7.37\"/></svg>\n    <!-- Half star -->\n    <svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\">\n      <defs>\n        <linearGradient id=\"half-star\">\n          <stop offset=\"50%\" stop-color=\"#FFD600\"/>\n          <stop offset=\"50%\" stop-color=\"#EFEFEF\"/>\n        </linearGradient>\n      </defs>\n      <polygon points=\"10,2 12.59,7.37 18.51,8.08 14,12.25 15.18,18.09 10,15.1 4.82,18.09 6,12.25 1.49,8.08 7.41,7.37\" fill=\"url(#half-star)\"/>\n    </svg>\n  </span>\n  <!-- Text -->\n  <span style=\"margin-left: 8px; color: #222; font-size: 1em; text-overflow: ellipsis; overflow: hidden;\">\n    Based On <span style=\"font-weight: 700;\">2,151+</span> Reviews\n  </span>\n</div>"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "title_size": "product-title-md",
+            "title_size_mobile": "product-title-md",
+            "show_price": true,
+            "show_rating": true
+          }
+        },
+        "liquid_qr6ngm": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"pp-feature-bubble\">\n  <ul>\n    <li>Flattens beer belly & chest instantly</li>\n    <li>Improves posture & boosts confidence</li>\n    <li>Breathable fabric for all-day comfort</li>\n    <li>Discreet under any shirt or outfit</li>\n  </ul>\n</div>\n\n<style>\n  .pp-feature-bubble {\n    background: #F2F2F2;        /* gris clair */\n    border-radius: 12px;        /* arrondi bulles */\n    padding: 16px 18px;         /* espace intérieur ajusté */\n    margin: 20px 0;             /* garde une marge propre autour */\n    width: 100%;                /* occupe toute la largeur dispo */\n    max-width: 100%;            \n    box-sizing: border-box;\n    display: inline-block;      /* force la bulle autour du contenu */\n  }\n  .pp-feature-bubble ul {\n    list-style: none;\n    padding: 0;\n    margin: 0;\n  }\n  .pp-feature-bubble li {\n    font-size: 15px;            \n    line-height: 1.4;           \n    margin-bottom: 8px;         \n    display: flex;\n    align-items: flex-start;\n  }\n  .pp-feature-bubble li:last-child {\n    margin-bottom: 0;           \n  }\n  .pp-feature-bubble li::before {\n    content: \"✓\";\n    color: #00B862;\n    font-weight: 600;\n    margin-right: 8px;\n    flex-shrink: 0;\n  }\n</style>"
+          }
+        },
+        "countdown": {
+          "type": "countdown",
+          "settings": {
+            "heading": "Hurry up!",
+            "subheading": "Sale end in:",
+            "color_text": "#e11d48",
+            "color_background": "#fff1f2",
+            "gradient_background": ""
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "show_variant_labels": true,
+            "picker_type": "button",
+            "enable_color_swatches": true,
+            "color_swatch_type": "color",
+            "size_chart": ""
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": false,
+            "show_price": false,
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": false,
+            "enable_back_in_stock": false,
+            "show_back_in_stock_name": false,
+            "show_back_in_stock_phone": false
+          }
+        },
+        "liquid_DKgnRz": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"stock-alert\">\n  <span class=\"dot\"></span>\n  <span class=\"stock-text\" id=\"variant-stock-msg\">Checking stock...</span>\n\n<div class=\"flex items-center gap-2 ms-auto\"><svg class=\"icon icon-question icon-md\" viewBox=\"0 0 22 22\" stroke=\"currentColor\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M9.167 9.625v-.458a1.833 1.833 0 1 1 3.666 0v.11a1.94 1.94 0 0 1-.57 1.376L11 11.917m.458 2.75a.458.458 0 0 1-.916 0m.916 0a.458.458 0 0 0-.916 0m.916 0h-.916M20.167 11a9.167 9.167 0 1 1-18.334 0 9.167 9.167 0 0 1 18.334 0Z\"></path>\n    </svg><a class=\"link text-sm leading-tight cursor-pointer mobile-iphone-pointevents\" role=\"link\" aria-disabled=\"true\" aria-controls=\"HelpDrawer\" aria-expanded=\"false\">Need help?</a>\n                  </div>\n</div>\n\n<style>\n  .stock-alert {\n    display: flex;\n    align-items: center;\n    gap: 8px;\n    margin: 0 0;\n    font-weight: 500;\n    color: #1a1a1a;\n    font-size: 14px;\n  }\n\n  .stock-alert .dot {\n    height: 10px;\n    width: 10px;\n    background-color: limegreen;\n    border-radius: 50%;\n    animation: pulse 1s infinite;\n    box-shadow: 0 0 5px limegreen;\n  }\n\n  @keyframes pulse {\n    0% { opacity: 1; }\n    50% { opacity: 0.2; }\n    100% { opacity: 1; }\n  }\n</style>\n\n<script>\n  document.addEventListener(\"DOMContentLoaded\", function () {\n    const stockMsg = document.getElementById(\"variant-stock-msg\");\n\n    function getStockForVariant(variantId) {\n      const storageKey = `gotcha-stock-${variantId}`;\n      const storedValue = localStorage.getItem(storageKey);\n\n      if (storedValue) return parseInt(storedValue);\n\n      const randomStock = Math.floor(Math.random() * 10) + 1;\n      localStorage.setItem(storageKey, randomStock);\n      return randomStock;\n    }\n\n    function getSelectedVariantId() {\n      const checkedInput = document.querySelector('input[name=\"id\"]:checked');\n      if (checkedInput) return checkedInput.value;\n\n      // Fallback for single-variant product\n      const formInput = document.querySelector('form[action*=\"/cart\"] input[name=\"id\"]');\n      if (formInput) return formInput.value;\n\n      return null;\n    }\n\n    function simulateStockMessage() {\n      const variantId = getSelectedVariantId();\n      if (!variantId) return;\n\n      stockMsg.textContent = \"Checking stock...\";\n\n      setTimeout(() => {\n        const fakeStock = getStockForVariant(variantId);\n        stockMsg.textContent = fakeStock === 1\n          ? \"In stock — ships within 24h\"\n          : `In stock — ships within 24h`;\n      }, 3000);\n    }\n\n    simulateStockMessage(); // On load\n\n    // On variant change (if present)\n    document.querySelectorAll('input[name=\"id\"]').forEach(input => {\n      input.addEventListener(\"change\", simulateStockMessage);\n    });\n  });\n\n</script>"
+          }
+        },
+        "pickup_availability": {
+          "type": "pickup_availability",
+          "settings": {}
+        },
+        "complementary": {
+          "type": "complementary",
+          "settings": {
+            "heading": "Pairs well with",
+            "product_limit": 4,
+            "show_vendor": false,
+            "show_price": true
+          }
+        },
+        "liquid_BEhWT4": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"margin: 0 !important; padding: 0 !important;\">\n  <div style=\"display: flex; overflow-x: auto; gap: 8px; scroll-snap-type: x mandatory; -webkit-overflow-scrolling: touch; scrollbar-width: none; -ms-overflow-style: none; padding: 0 !important; margin: 0 !important; margin-block: 0;\">\n    \n    <div style=\"flex: 0 0 auto; width: 100px; scroll-snap-align: start; border-radius: 6px; overflow: hidden;\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0757/1092/2992/files/Bibliothquepublicitaire-ezgif.com-crop.gif?v=1754482974\">\n    </div>\n\n    <div style=\"flex: 0 0 auto; width: 100px; scroll-snap-align: start; border-radius: 6px; overflow: hidden;\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0913/5079/4627/files/GIF_5.gif?v=1746610038\" alt=\"GIF 2\" style=\"width: 100%; height: auto; display: block; border-radius: 6px;\">\n    </div>\n\n    <div style=\"flex: 0 0 auto; width: 100px; scroll-snap-align: start; border-radius: 6px; overflow: hidden;\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0913/5079/4627/files/GIF_3.gif?v=1746610038\" alt=\"GIF 3\" style=\"width: 100%; height: auto; display: block; border-radius: 6px;\">\n    </div>\n\n    <div style=\"flex: 0 0 auto; width: 100px; scroll-snap-align: start; border-radius: 6px; overflow: hidden;\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0913/5079/4627/files/GIF_1_1cf27301-5abe-4954-a09c-3ac6a5fdba1f.gif?v=1746610038\" alt=\"GIF 4\" style=\"width: 100%; height: auto; display: block; border-radius: 6px;\">\n    </div>\n\n    <div style=\"flex: 0 0 auto; width: 100px; scroll-snap-align: start; border-radius: 6px; overflow: hidden;\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0913/5079/4627/files/GIF_2.gif?v=1746610039\" alt=\"GIF 5\" style=\"width: 100%; height: auto; display: block; border-radius: 6px;\">\n    </div>\n\n  </div>\n</div>"
+          }
+        },
+        "collapsible_tab_peYwUi": {
+          "type": "collapsible_tab",
+          "settings": {
+            "style": "with-border",
+            "icon": "none",
+            "heading": "Collapsible row",
+            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
+            "page": "",
+            "liquid": "",
+            "opened": false
+          }
+        },
+        "collapsible_tab_HEfeJH": {
+          "type": "collapsible_tab",
+          "settings": {
+            "style": "with-border",
+            "icon": "none",
+            "heading": "Collapsible row",
+            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
+            "page": "",
+            "liquid": "",
+            "opened": false
+          }
+        },
+        "collapsible_tab_UitXNW": {
+          "type": "collapsible_tab",
+          "settings": {
+            "style": "with-border",
+            "icon": "none",
+            "heading": "Collapsible row",
+            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
+            "page": "",
+            "liquid": "",
+            "opened": false
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "text_size": "text-base"
+          }
+        },
+        "sticky_buy_button": {
+          "type": "sticky_buy_button",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "liquid_iecMDy",
+        "title",
+        "liquid_qr6ngm",
+        "countdown",
+        "variant_picker",
+        "buy_buttons",
+        "liquid_DKgnRz",
+        "pickup_availability",
+        "complementary",
+        "liquid_BEhWT4",
+        "collapsible_tab_peYwUi",
+        "collapsible_tab_HEfeJH",
+        "collapsible_tab_UitXNW",
+        "description",
+        "sticky_buy_button"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "media_size": 55,
+        "gallery_layout": "columns",
+        "thumbnail_position": "below",
+        "image_ratio": "adapt_first",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_autoplay": true,
+        "enable_video_looping": true,
+        "mobile_layout": "full_width",
+        "image_ratio_mobile": "adapt_first",
+        "mobile_thumbnail": true,
+        "padding_top": 0,
+        "padding_bottom": 24,
+        "divider": false,
+        "full_width": true,
+        "rounded": false
+      }
+    },
+    "custom_liquid_kdWQkg": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "liquid": "<style>\n  /* ---------- Base ---------- */\n  .usage-section-title{\n    text-align:center;\n    font-size:1.8rem;\n    font-weight:700;\n    margin-top:2rem;\n  }\n  .usage-carousel{\n    display:flex;\n    overflow-x:auto;\n    gap:1.5rem;\n    scroll-snap-type:x mandatory;\n    padding:2rem 1rem;\n    -ms-overflow-style:none;\n    scrollbar-width:none;\n    justify-content:center; /* desktop centering */\n  }\n  .usage-carousel::-webkit-scrollbar{ display:none; }\n\n  .usage-step{\n    flex:0 0 80%;\n    max-width:320px;\n    background:#fff;\n    border-radius:16px;\n    box-shadow:0 8px 20px rgba(0,0,0,.06);\n    scroll-snap-align:start;\n    padding-bottom:1rem;\n  }\n  .usage-step img{\n    width:100%;\n    height:220px;\n    object-fit:cover;\n    border-top-left-radius:16px;\n    border-top-right-radius:16px;\n  }\n  .usage-step-content{ padding:1.2rem; }\n  .usage-step h3{\n    margin:0 0 .5rem;\n    font-size:1.2rem;\n    font-weight:700;\n  }\n  .usage-step p{\n    font-size:.95rem;\n    line-height:1.5;\n    color:#333;\n    margin-bottom:0;\n  }\n\n  /* ---------- Mobile: show a peek of the next card ---------- */\n  @media (max-width:767px){\n    .usage-carousel{\n      gap:1rem;\n      padding:1rem 1rem 1rem 1rem; /* space on left edge */\n      justify-content:flex-start;\n      padding-right:2rem; /* allow last card to come fully into view */\n    }\n    .usage-step{\n      flex-basis:calc(100% - 3.5rem); /* slightly narrower than viewport -> shows next card */\n      max-width:none;\n    }\n  }\n\n  /* ---------- Desktop ---------- */\n  @media (min-width:768px){\n    .usage-carousel{ justify-content:center; }\n    .usage-step{ flex:0 0 300px; max-width:300px; }\n  }\n</style>\n\n<h2 class=\"usage-section-title\">How to Use SunLush</h2>\n\n<div class=\"usage-carousel\">\n  <div class=\"usage-step\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0913/5079/4627/files/IMAGE_2025-05-07_11_32_59.jpg?v=1746610384\" alt=\"Body Application\">\n    <div class=\"usage-step-content\">\n      <h3>🧴 Body</h3>\n      <p><strong>Apply generously</strong> to clean, dry skin. Massage in using circular motions for a <strong>smooth, even bronze</strong> all over your body.</p>\n    </div>\n  </div>\n\n  <div class=\"usage-step\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0913/5079/4627/files/IMAGE_2025-05-07_11_33_04.jpg?v=1746610389\" alt=\"Legs Application\">\n    <div class=\"usage-step-content\">\n      <h3>🦵 Legs</h3>\n      <p><strong>Smooth over thighs and calves</strong> in circular motions for an <strong>even, golden tan</strong> — no streaks, no mess.</p>\n    </div>\n  </div>\n\n  <div class=\"usage-step\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0913/5079/4627/files/IMAGE_2025-05-06_16_03_46.jpg?v=1746540230\" alt=\"Face Application\">\n    <div class=\"usage-step-content\">\n      <h3>😊 Face</h3>\n      <p><strong>Gently apply</strong> to your cheeks, forehead, and jawline for a <strong>natural glow</strong> that <strong>enhances your features</strong>.</p>\n    </div>\n  </div>\n</div>",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 12,
+        "padding_bottom": 12,
+        "divider": false,
+        "narrow": false,
+        "rounded": false
+      }
+    },
+    "custom_liquid_iBNi8f": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "liquid": "<section style=\"background-color: #F2F2F2; padding: 4rem 1rem; text-align: center;\">\n  <div style=\"max-width: 960px; margin: 0 auto;\">\n    <div style=\"display: inline-block; background: white; padding: 0.5rem 1rem; border-radius: 9999px; font-weight: 600; font-size: 0.9rem; margin-bottom: 1rem; box-shadow: 0 0 0 1px #e0e0e0;\">\n      <span style=\"color: #FFA500;\">★★★★★</span> RATED 4.8/5 BASED ON 1,475+ GLOWING REVIEWS\n    </div>\n\n    <h2 style=\"font-size: 2rem; font-weight: 800; margin-bottom: 0.5rem;\">Real Women. Real Results. Real Radiance.</h2>\n    <p style=\"font-size: 1.1rem; color: #333; margin-bottom: 2rem;\">Here’s what LumaGlow lovers are saying...</p>\n\n    <div style=\"display: flex; justify-content: center; flex-wrap: wrap; gap: 0.75rem; margin-bottom: 2.5rem;\">\n      <div style=\"background: white; padding: 0.6rem 1.2rem; border-radius: 1rem; font-weight: 600; font-size: 0.95rem; box-shadow: 0 1px 4px rgba(0,0,0,0.05);\">\n        “Instant fit”\n      </div>\n      <div style=\"background: white; padding: 0.6rem 1.2rem; border-radius: 1rem; font-weight: 600; font-size: 0.95rem; box-shadow: 0 1px 4px rgba(0,0,0,0.05);\">\n        “My wife loves it”\n      </div>\n      <div style=\"background: white; padding: 0.6rem 1.2rem; border-radius: 1rem; font-weight: 600; font-size: 0.95rem; box-shadow: 0 1px 4px rgba(0,0,0,0.05);\">\n        “I feel like a newborn”\n      </div>\n      <div style=\"background: white; padding: 0.6rem 1.2rem; border-radius: 1rem; font-weight: 600; font-size: 0.95rem; box-shadow: 0 1px 4px rgba(0,0,0,0.05);\">\n        “Nights feels better”\n      </div>\n    </div>\n\n    <div style=\"display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem;\">\n      <div style=\"background: white; border-radius: 1.5rem; padding: 1.5rem; text-align: left; box-shadow: 0 6px 24px rgba(0,0,0,0.05);\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0913/5079/4627/files/R_7.webp?v=1752154117\" alt=\"LumaGlow review 1\" style=\"width: 100%; border-radius: 1rem; margin-bottom: 1rem;\">\n        <p style=\"color: #FFA500; font-size: 1.2rem; margin: 0 0 0.5rem;\">★★★★★</p>\n        <p style=\"font-weight: 700; margin-bottom: 0.5rem;\">Lifted in Days!</p>\n        <p style=\"margin-bottom: 1rem;\">\"I was skeptical at first, but my jawline is noticeably tighter and my skin looks fresh and smooth. I use it every night now.\"</p>\n        <p style=\"font-weight: 600; margin-bottom: 0;\">Samantha L.</p>\n        <p style=\"font-size: 0.9rem; color: #666;\">Los Angeles, 42 Years Old</p>\n      </div>\n\n      <div style=\"background: white; border-radius: 1.5rem; padding: 1.5rem; text-align: left; box-shadow: 0 6px 24px rgba(0,0,0,0.05);\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0913/5079/4627/files/R_9.webp?v=1752154116\" alt=\"LumaGlow review 2\" style=\"width: 100%; border-radius: 1rem; margin-bottom: 1rem;\">\n        <p style=\"color: #FFA500; font-size: 1.2rem; margin: 0 0 0.5rem;\">★★★★★</p>\n        <p style=\"font-weight: 700; margin-bottom: 0.5rem;\">Feels So Luxurious</p>\n        <p style=\"margin-bottom: 1rem;\">\"The warm light and gentle massage feel amazing. I honestly look forward to my evening routine now and my skin looks better than it has in years.\"</p>\n        <p style=\"font-weight: 600; margin-bottom: 0;\">Denise R.</p>\n        <p style=\"font-size: 0.9rem; color: #666;\">Chicago, 36 Years Old</p>\n      </div>\n\n      <div style=\"background: white; border-radius: 1.5rem; padding: 1.5rem; text-align: left; box-shadow: 0 6px 24px rgba(0,0,0,0.05);\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0913/5079/4627/files/R_1.jpg?v=1752154116\" alt=\"LumaGlow review 3\" style=\"width: 100%; border-radius: 1rem; margin-bottom: 1rem;\">\n        <p style=\"color: #FFA500; font-size: 1.2rem; margin: 0 0 0.5rem;\">★★★★★</p>\n        <p style=\"font-weight: 700; margin-bottom: 0.5rem;\">Game Changer!</p>\n        <p style=\"margin-bottom: 1rem;\">\"I saw results after just a week less puffiness, smoother skin, and I finally feel confident without makeup. This thing is magic.\"</p>\n        <p style=\"font-weight: 600; margin-bottom: 0;\">Marina P.</p>\n        <p style=\"font-size: 0.9rem; color: #666;\">Miami, 29 Years Old</p>\n      </div>\n    </div>\n  </div>\n</section>",
+        "color_text": "",
+        "color_background": "#f2f2f2",
+        "gradient_background": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 12,
+        "padding_bottom": 12,
+        "divider": false,
+        "narrow": false,
+        "rounded": false
+      }
+    },
+    "faq_xEadB3": {
+      "type": "faq",
+      "blocks": {
+        "question_DeJxXz": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question_8xFJjR": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question_BBNh9W": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "question_DeJxXz",
+        "question_8xFJjR",
+        "question_BBNh9W"
+      ],
+      "name": "t:sections.faq.presets.name",
+      "settings": {
+        "style": "with-border",
+        "heading": "FAQs",
+        "heading_size": "title-md",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_external": false,
+        "button_icon": true,
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "color_overlay": "#ffffff",
+        "overlay_opacity": 4,
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "narrow": true,
+        "rounded": false
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "product_limit": 6,
+        "columns": 4,
+        "carousel_on_desktop": true,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "heading": "You may also like",
+        "heading_size": "title-md",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "full_width": false,
+        "rounded": true
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "settings": {
+        "product_limit": 6,
+        "columns": 4,
+        "carousel_on_desktop": true,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "heading": "Recently Viewed",
+        "heading_size": "title-md",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "full_width": false,
+        "rounded": false
+      }
+    }
+  },
+  "order": [
+    "main-product",
+    "custom_liquid_kdWQkg",
+    "custom_liquid_iBNi8f",
+    "faq_xEadB3",
+    "product-recommendations",
+    "recently-viewed"
+  ]
+}
