@@ -89,8 +89,8 @@
           "settings": {
             "style": "with-border",
             "icon": "none",
-            "heading": "How many colors come in the set?",
-            "content": "<p>This set includes <strong>24 rich, vibrant gouache colors</strong> in jelly cups.</p><p></p>",
+            "heading": "What grades are available?",
+            "content": "<p>HB, 2B, 4B, and 6B for different tones and textures.</p>",
             "page": "",
             "liquid": "",
             "opened": false
@@ -101,8 +101,8 @@
           "settings": {
             "style": "with-border",
             "icon": "none",
-            "heading": "Are the paints non-toxic?",
-            "content": "<p>Yes, they’re <strong>eco-friendly, odor-free, and safe</strong> for all ages.</p><p></p><p></p>",
+            "heading": "Are these sticks woodless?",
+            "content": "<p>Yes — they’re made entirely of compressed graphite.</p>",
             "page": "",
             "liquid": "",
             "opened": false
@@ -113,8 +113,8 @@
           "settings": {
             "style": "with-border",
             "icon": "none",
-            "heading": "What surfaces can I paint on?",
-            "content": "<p>Perfect for <strong>paper, canvas, cardboard, rock, and craft projects</strong>.</p><p></p>",
+            "heading": "Can beginners use them?",
+            "content": "<p>Absolutely — easy to handle and blend.</p>",
             "page": "",
             "liquid": "",
             "opened": false
@@ -173,8 +173,8 @@
         "question_DeJxXz": {
           "type": "question",
           "settings": {
-            "title": "Do the paints dry out quickly?",
-            "text": "<p>No — the <strong>airtight jelly cups</strong> keep pigments creamy and long-lasting.</p><p></p>",
+            "title": "Do they work on all paper types?",
+            "text": "<p>Yes, ideal for <strong>sketchbooks, textured, and smooth paper</strong>.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -182,8 +182,8 @@
         "question_8xFJjR": {
           "type": "question",
           "settings": {
-            "title": "Can beginners use this set?",
-            "text": "<p>Absolutely! It’s <strong>beginner-friendly</strong> and easy to blend and control.</p><p></p><p></p>",
+            "title": "Are they messy to use?",
+            "text": "<p>Minimal dust; simply use a fixative to seal finished art.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -191,8 +191,8 @@
         "question_BBNh9W": {
           "type": "question",
           "settings": {
-            "title": "Is it easy to carry around?",
-            "text": "<p>Yes, the <strong>compact portable case</strong> with brush tray makes it ideal for travel and outdoor painting.</p><p></p>",
+            "title": "How do I sharpen them?",
+            "text": "<p>Use sandpaper, a blade, or shaping tools for custom precision.</p><p></p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
