@@ -89,8 +89,8 @@
           "settings": {
             "style": "with-border",
             "icon": "none",
-            "heading": "Collapsible row",
-            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
+            "heading": "Can beginners use this set?",
+            "content": "<p>Absolutely! It’s ideal for beginners, students, and professional artists alike.</p>",
             "page": "",
             "liquid": "",
             "opened": false
@@ -101,8 +101,8 @@
           "settings": {
             "style": "with-border",
             "icon": "none",
-            "heading": "Collapsible row",
-            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
+            "heading": "How should I store the markers?",
+            "content": "<p>Keep them capped tightly after each use and store horizontally in the included carrying case to maintain even ink flow.</p>",
             "page": "",
             "liquid": "",
             "opened": false
@@ -113,8 +113,8 @@
           "settings": {
             "style": "with-border",
             "icon": "none",
-            "heading": "Collapsible row",
-            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
+            "heading": "How long do the markers last?",
+            "content": "<p>Each marker is filled with high-capacity ink that lasts for dozens of projects. With proper storage and capped tips, they can stay fresh for months.</p>",
             "page": "",
             "liquid": "",
             "opened": false
